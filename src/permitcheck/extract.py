@@ -231,7 +231,7 @@ class RuleExtractor:
         cands: dict[str, list[tuple[object, float, str]]] = {}
         for seg in self._segments(text):
             hits = []
-            for field, alias, pat in self.patterns:
+            for field, _alias, pat in self.patterns:
                 for m in pat.finditer(seg):
                     hits.append((m.start(), m.end(), field))
             hits.sort(key=lambda h: (-(h[1] - h[0]), h[0]))
