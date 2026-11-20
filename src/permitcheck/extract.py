@@ -50,7 +50,10 @@ EXACT, NEAR = 0.95, 0.85
 APPROX, UNITLESS, CONFLICT, GARBLED = 0.5, 0.4, 0.3, 0.2
 NOT_NEW = re.compile(r"\b(existing|old|previous|current|neighbor'?s?)\b[^:|]{0,20}$", re.I)
 APPROX_RE = re.compile(r"^(about|approx\.?|approximately|around|roughly|~|\+/-|circa)\s*", re.I)
-GARBLE_RE = re.compile(r"\d[OolSB]|[OolSB]\d|\d,[OolSB]|[OolSB],\d")
+# A letter that stands in for a digit: next to a digit ("2O5", "L7"), or alone before a unit ("8 ft B in").
+# Scans are upper case, so a garbled 1 shows as "L" as well as "l".
+GARBLE_RE = re.compile(r"\d[OolLSB]|[OolLSB]\d|\d,[OolLSB]|[OolLSB],\d"
+                       r"|(?<![A-Za-z])[OolLSB](?=\s*(?:(?i:ft|feet|foot|in|inch|inches|sq|sf)\b|['\"]))")
 NUM = r"(?<![\w.,])(\d[\d,]*(?:\.\d+)?)"
 FT = r"(?:ft|feet|foot|')"
 IN = r"(?:in|inches|inch|\")"

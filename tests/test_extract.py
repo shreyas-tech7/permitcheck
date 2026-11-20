@@ -102,6 +102,19 @@ def test_garbled_number_is_not_read():
     assert f is None or f.value is None or f.confidence < 0.8
 
 
+@pytest.mark.parametrize("line, field", [
+    ("BUILDING HEIGHT: L7 FT 6 IN", "height_ft"),
+    ("FINISHED CEILING HEIGHT: 8 FT B IN", "ceiling_height_in"),
+    ("Building height: S ft", "height_ft"),
+    ("Proposed area: 4O0 sq ft", "new_area_sqft"),
+])
+def test_garbled_digit_never_reads_as_a_smaller_clean_number(line, field):
+    """Found on the second seed: 'L7 FT 6 IN' read as 0.5 ft and '8 FT B IN' as 96 in, both at 0.95.
+    A garbled digit that drops out makes a value smaller, which can pass a maximum by mistake."""
+    f = one(line, field)
+    assert f is None or f.value is None or f.confidence < 0.8
+
+
 def test_near_miss_label_is_read_with_lower_but_passing_confidence():
     f = one("Side yard setack: 7 ft 6 in", "side_setback_ft")
     assert f.value == 7.5 and 0.8 <= f.confidence < 0.9

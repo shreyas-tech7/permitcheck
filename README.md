@@ -53,14 +53,14 @@ These tables come from the files in `results/`. The `permitcheck readme` command
 | Metric | Dev (200 apps, seed 20261120) | Held-out (100 apps, seed 20261120) | Second seed (300 apps, seed 20261121) |
 | --- | --- | --- | --- |
 | Field F1 | 0.973 | 0.971 | 0.970 |
-| Field precision | 98.4% (3789 of 3852), CI 97.9% to 98.7% | 98.3% (1883 of 1915), CI 97.7% to 98.8% | 98.3% (5714 of 5814), CI 97.9% to 98.6% |
+| Field precision | 98.4% (3789 of 3852), CI 97.9% to 98.7% | 98.3% (1883 of 1915), CI 97.7% to 98.8% | 98.3% (5714 of 5811), CI 98.0% to 98.6% |
 | Field recall | 96.2% (3789 of 3938), CI 95.6% to 96.8% | 95.8% (1883 of 1965), CI 94.8% to 96.6% | 95.8% (5714 of 5967), CI 95.2% to 96.2% |
 | Violation precision | 100.0% (167 of 167), CI 97.8% to 100.0% | 100.0% (90 of 90), CI 95.9% to 100.0% | 100.0% (268 of 268), CI 98.6% to 100.0% |
 | Violation recall | 90.3% (167 of 185), CI 85.1% to 93.8% | 88.2% (90 of 102), CI 80.6% to 93.1% | 88.7% (268 of 302), CI 84.7% to 91.8% |
 | **False-approve rate** (applications with a critical violation) | 0.0% (0 of 77), CI 0.0% to 4.8% | 0.0% (0 of 47), CI 0.0% to 7.6% | 0.0% (0 of 134), CI 0.0% to 2.8% |
 | False approves per critical violation | 0.0% (0 of 103), CI 0.0% to 3.6% | 0.0% (0 of 63), CI 0.0% to 5.7% | 0.0% (0 of 172), CI 0.0% to 2.2% |
-| Needs-human rate (rule decisions) | 13.2% (452 of 3430), CI 12.1% to 14.4% | 11.9% (203 of 1708), CI 10.4% to 13.5% | 11.9% (609 of 5136), CI 11.0% to 12.8% |
-| Citation validity (fixed count, no interval) | 100.0% (619 of 619) | 100.0% (293 of 293) | 100.0% (877 of 877) |
+| Needs-human rate (rule decisions) | 13.2% (452 of 3430), CI 12.1% to 14.4% | 11.9% (203 of 1708), CI 10.4% to 13.5% | 11.9% (611 of 5136), CI 11.0% to 12.8% |
+| Citation validity (fixed count, no interval) | 100.0% (619 of 619) | 100.0% (293 of 293) | 100.0% (879 of 879) |
 
 Extractor: `rule-v1`. Model: none (rule-based, no model). Code: LHRC 2026.1. Run date: 2026-11-20. CI means a 95% Wilson score interval.
 
