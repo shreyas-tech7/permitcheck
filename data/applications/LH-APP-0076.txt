@@ -1,0 +1,25 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0076
+Applicant: Sam Okafor
+Site address: 700 Copper Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Project type: Home addition
+Assessor lot no.: LH-1024-899
+Owner signed: Yes
+Builder: owner-builder
+Value of work: $112,200
+Zoning district: District R1
+Parcel area: 10000 sf
+Existing footprint: 2600 sf
+Area of new work: 1400 sf
+Front setback: 30 feet
+Side setback: 15
+Setback (rear): 21'
+Addition height: 294 in
+Ceiling height: 83"
+Bedrooms added: 0
+Smoke detector: Not provided
+Storis: one
+Foundation: crawlspace

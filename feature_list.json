@@ -1,0 +1,205 @@
+[
+ {
+  "id": "F01",
+  "area": "setup",
+  "description": "init.sh creates .venv, installs, lints and runs all tests offline. A conftest guard blocks non-local network and a test proves it.",
+  "steps": [
+   "./init.sh",
+   ".venv/bin/python -m pytest -q tests/test_network_guard.py"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F02",
+  "area": "code",
+  "description": "Fictional city code file with 25 rules (ID, section, text, check type, parameters) and a schema check.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_code_file.py"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F03",
+  "area": "generator",
+  "description": "Seeded generator writes 300 synthetic applications with hidden answer keys, critical violations, edge cases and messy formatting. Same seed gives the same bytes.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_generator.py"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F04",
+  "area": "generator",
+  "description": "The 300 applications split into 200 dev and 100 held-out before any tuning. data/split.json is committed.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_generator.py -k split"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F05",
+  "area": "extract",
+  "description": "Rule-based extractor pulls every field with a confidence score.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_extract.py"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F06",
+  "area": "checker",
+  "description": "Rules R01 to R05 (paperwork and district) have pass, fail and edge tests.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_rules.py -k 'R01 or R02 or R03 or R04 or R05'"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F07",
+  "area": "checker",
+  "description": "Rules R06 to R10 (setbacks, coverage, height) have pass, fail and edge tests.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_rules.py -k 'R06 or R07 or R08 or R09 or R10'"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F08",
+  "area": "checker",
+  "description": "Rules R11 to R19 (deck) have pass, fail and edge tests.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_rules.py -k 'R11 or R12 or R13 or R14 or R15 or R16 or R17 or R18 or R19'"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F09",
+  "area": "checker",
+  "description": "Rules R20 to R25 (addition) have pass, fail and edge tests, and every rule in the code file has all three.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_rules.py"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F10",
+  "area": "checker",
+  "description": "A missing or low-confidence field always returns needs-human, never pass.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_needs_human.py"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F11",
+  "area": "outputs",
+  "description": "Reviewer checklist in Markdown and a review queue of needs-human items.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_outputs.py"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F12",
+  "area": "outputs",
+  "description": "Correction letter in plain language with section citations. Every cited section exists and matches its rule. A fake section ID raises an error.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_letter.py"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F13",
+  "area": "audit",
+  "description": "Audit log of every decision with inputs, rule version, code hash and extractor.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_audit.py"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F14",
+  "area": "eval",
+  "description": "permitcheck eval writes field F1, violation precision and recall, false-approve rate with a Wilson interval, needs-human rate and citation validity for dev and held-out.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_metrics.py",
+   ".venv/bin/permitcheck eval --check"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F15",
+  "area": "eval",
+  "description": "False-approve rate is zero on the seeded critical violations in the 100 held-out applications for the rule-based extractor.",
+  "steps": [
+   ".venv/bin/python scripts/assert_zero_false_approve.py results/eval_heldout_rule.json"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F16",
+  "area": "llm",
+  "description": "LLM extractor in replay mode with a grounding check. Record mode exists behind a key.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_llm.py"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F17",
+  "area": "llm",
+  "description": "False-approve rate is zero on the 100 held-out applications for the recorded LLM extractor.",
+  "steps": [
+   ".venv/bin/python scripts/assert_zero_false_approve.py results/eval_heldout_llm.json"
+  ],
+  "passes": false
+ },
+ {
+  "id": "F18",
+  "area": "safety",
+  "description": "README and every command line output say: synthetic data, no legal advice, not for production.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_disclaimers.py"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F19",
+  "area": "docs",
+  "description": "README has the quality-bar parts in order. A script writes its tables from results files and a test fails on drift.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_readme_sync.py",
+   ".venv/bin/permitcheck readme --check"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F20",
+  "area": "repo",
+  "description": "CI workflow passes actionlint. LICENSE, CHANGELOG, CONTRIBUTING, issue templates, topics, social preview, static results page, DEMO.md and link check are present.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_repo_quality.py",
+   ".venv/bin/python scripts/check_links.py",
+   "$HOME/go/bin/actionlint"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F21",
+  "area": "docs",
+  "description": "Study-later kit: docs/WALKTHROUGH.md, docs/INTERVIEW_QA.md with the interview points, DECISIONS.md.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_repo_quality.py -k study"
+  ],
+  "passes": true
+ },
+ {
+  "id": "F22",
+  "area": "release",
+  "description": "Release check and hand-off: docs/RELEASE_CHECK.md, docs/HUMAN_STEPS.md and CHANGELOG.md with the release SHA, docs/handoff/COWORK_PROMPT.md, GITHUB_ABOUT.md, topics.txt.",
+  "steps": [
+   ".venv/bin/python -m pytest -q tests/test_repo_quality.py -k release"
+  ],
+  "passes": true
+ }
+]

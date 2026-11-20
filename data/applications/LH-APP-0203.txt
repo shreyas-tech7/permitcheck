@@ -1,0 +1,31 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0203
+Applicant: Chris Abara
+Site address: 736 Wren Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Type of work: Rear deck
+Signed by owner: Yes
+Builder: owner-builder
+Valuation: $ 92350
+Zone: District R2
+Lot area: 9550 sf
+Existing coverage: 1,580 sq ft
+New floor area: 162 sq ft
+Front setback: 24'-6"
+Side yard setback: 10'
+Rear setback: 23'-6"
+Waking surface height: 37 in
+Guard height: 39 inches
+Max opening in guard: 3"
+Riser height: 7 1/2 inches
+Min tread: 11 inches
+Riser count: 8
+Existing deck height: 17 in (old deck to be removed)
+Stair handrail: Provided
+Joists at: 16 in
+Footing depth below grade: 30 in
+Ledger attachment: lag screws
+Revised waking surface height: 39"
+Revised riser count: six

@@ -1,0 +1,25 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0061
+Applicant: Kenji Ward
+Site address: 638 Larkspur Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Project type: Home addition
+APN: LH-4401-985
+Owner signed: Yes
+Contractor license: LHC-91683
+Estimated cost: $ 102550
+Zoning district: R1
+Lot size: 11600 SF
+Existing coverage: 1830 sf
+Area of new work: 763 sf
+Front setback: 35'-6"
+Side setback: 12.5 feet
+Setback (rear): 408 in
+Building height: 12.5'
+Ceiling height: 7'-4"
+Egrss window: Provided
+Smoke alarm: Yes
+Number of stories: 2
+Foundation system: basement

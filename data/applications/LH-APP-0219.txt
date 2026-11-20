@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0219
+Applicant: Chris Abara
+Site address: 940 Fernbank Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+The work type is Room addition. The parcel number is LH-8577-915. The owner signed is Signed. The builder is owner-builder. The job cost is $100,900. The zoning district is R1. The lot size is 7550 SF. The existing building footprint is 1,240 sq ft. The proposed area is 1,852 sq ft. The front yard setback is 26'-6". The side setback is 15'. The setback (rear) is 33.5 ft. The addition height is 22'. The ceiling height is 7'-0". The new bedrooms is two. The egress window is Yes. The smoke alarm is Y. The sories is 1. The foundation is crawlspace.

@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0038
+Applicant: Alex Brandt
+Site address: 657 Millrace Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Type of work: Room addition
+APN: LH-4045-954
+Contractor: LHC-43376
+Valuation: $28,150
+Zoning district: R1
+Parcel area: 9650 SF
+Existing footprint: 2,410 sq ft
+Proposed area: 671 sf
+Front setback: 34.5 feet
+Distance to side lot line: 9.5'
+Stback (rear): 28'-6"
+Addition height: 26.5 feet
+Fnished ceiling height: 106 in
+Number of new bedrooms: 1
+Emergency escape window: Provided
+Existing rear setback of garage: 2 ft
+Hardwired smoke alarm: Y
+Stories: 1
+Foundation type: slab

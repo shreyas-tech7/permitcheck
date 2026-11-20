@@ -1,0 +1,27 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0178
+Applicant: Lee Marchetti
+Site address: 694 Orchard Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Type of work: Deck
+Signed by owner: Signed
+Bulder: owner-builder
+Estimated cost: $19,950
+Zoning: R-1
+Lot area: 7,350 square feet
+Existing coverage: 1240 sf
+Area of new work: 500 square feet
+Front setback: 27.5'
+Distance to side lot line: 14 feet
+Rear setback: 30.5 ft
+Deck height: 16"
+Existing rear setback of garage: 3 ft
+Railing height: 38 inches
+Max opening in guard: 3.5"
+Riser heght: 7"
+Stair tread: 11.5 in
+Risers: 2
+Handril: Yes
+Ledger attachment: bolts

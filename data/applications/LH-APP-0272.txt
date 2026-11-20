@@ -1,0 +1,28 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0272
+Applicant: Sam Okafor
+Site address: 254 Copper Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+| Item | Entry |
+| --- | --- |
+| Project type | Room addition |
+| Parcel number | LH-7475-956 |
+| Signed by owner | Yes |
+| Builder | LHC-70819 |
+| Valuation | $28,600 |
+| Zone | R-2 |
+| Lot size | 6,500 sq ft |
+| Existing footprit | 1,600 square feet |
+| New floor area | 314 sf |
+| Front setback | 26.5 ft |
+| Side setback | 90 in |
+| Rear setback | 15' |
+| Building height | 28' |
+| Finished ceiling height | 7'-9" |
+| Bedrooms added | 0 |
+| Smoke alarm | Yes |
+| Stories | 0 |
+| Foundation system | slab |
+| Revised stories | 2 |

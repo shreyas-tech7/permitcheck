@@ -1,0 +1,36 @@
+{
+ "disclaimer": "SYNTHETIC DATA ONLY. Larkspur Hollow and its code are fictional. This tool gives no legal advice. Not for production use.",
+ "items": [
+  {
+   "app_id": "LH-APP-0018",
+   "rule_id": "R12",
+   "section": "LHRC 12.2.1",
+   "title": "Guard height",
+   "critical": true,
+   "status": "needs_human",
+   "reason": "needs a person: the guard height (guard_height_in) is missing",
+   "inputs": {
+    "deck_height_in": {
+     "value": 25,
+     "confidence": 0.95
+    },
+    "guard_height_in": null
+   }
+  },
+  {
+   "app_id": "LH-APP-0018",
+   "rule_id": "R14",
+   "section": "LHRC 12.3.1",
+   "title": "Stair riser height",
+   "critical": true,
+   "status": "needs_human",
+   "reason": "needs a person: the stair riser (stair_riser_in) was read with low confidence (0.30)",
+   "inputs": {
+    "stair_riser_in": {
+     "value": 8.75,
+     "confidence": 0.3
+    }
+   }
+  }
+ ]
+}

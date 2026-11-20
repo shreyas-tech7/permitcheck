@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0102
+Applicant: Dana Ilves
+Site address: 55 Quarry Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+The project type is Addition. The parcl number is LH-7901-502. The owner signed is Signed. The contractor license is owner-builder. The zoning district is District R3. The lot area is 10,500 sq ft. The existing coverage is 2350 SF. The new floor area is 606 sf. The front yard setback is 29 feet. The side setback is 9 ft. The setback (rear) is 16'. The building height is 25'. The ceiling height is 108 inches. The number of new bedrooms is 3. The emergency escape window is Provided. The smoke alarm is Provided. The flors is 1. The foundation is slab.

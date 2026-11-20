@@ -1,0 +1,44 @@
+name: Record LLM extractor (manual)
+
+# Runs only by hand. It calls a free OpenAI-compatible provider with synthetic text only.
+on:
+  workflow_dispatch:
+    inputs:
+      split:
+        description: "Which split to record"
+        required: true
+        default: "heldout"
+        type: choice
+        options:
+          - heldout
+          - dev
+
+permissions:
+  contents: read
+
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install
+        run: python -m pip install -e .
+      - name: Record the LLM extractor on synthetic applications
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          SPLIT: ${{ inputs.split }}
+        run: permitcheck eval --extractor llm-record --split "$SPLIT"
+      - name: Check for false approves
+        if: ${{ inputs.split == 'heldout' }}
+        run: python scripts/assert_zero_false_approve.py results/eval_heldout_llm.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: llm-record-run
+          path: |
+            results/eval_*_llm.json
+            fixtures/llm/

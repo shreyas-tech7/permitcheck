@@ -1,0 +1,28 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0052
+Applicant: Priya Nandakumar
+Site address: 278 Larkspur Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Type of work: Rear deck
+APN: LH-4435-500
+Builder: owner-builder
+Estimated cost: $1
+Zoning district: District R3
+Lot area: 7,450 sq ft
+Existing building fotprint: 1,620 square feet
+New floor area: 1,463 square feet
+Setback (front): 22.5 feet
+Rear setback: 10'
+Deck height above grade: 25 in
+Guard height: 38 in
+Baluter spacing: 3 1/4 inches
+Riser height: 7.25 in
+Stair tread: 12 inches
+Risers: six
+Existing deck height: 10 in (old deck to be removed)
+Stair handrail: Provided
+Joist spacing (o.c.): 12 inches
+Depth of footings: 45 in
+Ledger fastenr: bolts

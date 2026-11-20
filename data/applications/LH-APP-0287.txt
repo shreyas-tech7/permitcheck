@@ -1,0 +1,24 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0287
+Applicant: Rosa Delgado
+Site address: 418 Larkspur Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Type of work: Addition
+Parcel ID: LH-6900-262
+Owner signature: Signed
+Contractor license: owner-builder
+Estimated cost: $ 105550
+Zoning district: R3
+New floor area: 655 square feet
+Front setback: 21.5'
+Side setback: 6.5 ft
+Rear setback: 12 feet
+Height of adition: 27 ft
+Ceiling height: 85"
+New bedrooms: 0
+Escape window: Y
+Hardwired smoke alarm: Provided
+Number of stories: 2
+Founation: slab

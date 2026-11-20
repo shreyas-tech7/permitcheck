@@ -1,0 +1,28 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0001
+Applicant: Sam Okafor
+Site address: 41 Quarry Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Project type: Rear deck
+Assessor lot no.: LH-3278-527
+Owner signed: Yes
+Contractor: owner-builder
+Valuation: $30,400
+Zoning district: R-3
+Parcel area: 9,900 square feet
+Existing footprint: about 1,800 sq ft
+Area of new work: 229 sq ft
+Front yard setback: 29.5'
+Side yard setack: 7 ft 6 in
+Rear yard setback: 15.5 ft
+Walking surface height: 30"
+Railing height: 38 inches
+Baluster spacing: 3.5"
+Riser height: 7"
+Risers: 3
+Handrail: Yes
+Joist spacing (o.c.): 12"
+Footing depth below grade: 33 inches
+Ledger: 16d nails

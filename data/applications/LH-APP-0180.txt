@@ -1,0 +1,27 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0180
+Applicant: Dana Ilves
+Site address: 148 Wren Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Type of work: Home addition
+APN: LH-8149-787
+Owner signed: Yes
+Contractor: LHC-15041
+Valuation: $ 30200
+Zone: R-1
+Lot area: 10000 SF
+Existing building footprint: 3,000 sq ft
+New floor area: 1,000 square feet
+Front yard setback: 35.5 feet
+Setback (side): 11.5 feet
+Rear yard setback: 33 ft
+Building height: 13'-6"
+Number of new bedrooms: 2
+Egress window: Provided
+Hardwired smoke alarm: None
+Number of stories: 1
+Foundation type: slab on grade
+Revised building height: 15 ft 6 in
+Revised number of new bedrooms: 0

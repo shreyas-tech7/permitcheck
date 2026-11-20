@@ -1,0 +1,123 @@
+{
+ "app_id": "LH-APP-0286",
+ "code_version": "2026.1",
+ "distractors": [],
+ "edge_cases": [
+  "R13:at_condition_line",
+  "R17:at_limit"
+ ],
+ "expected": {
+  "R01": "fail",
+  "R02": "pass",
+  "R03": "pass",
+  "R04": "pass",
+  "R05": "pass",
+  "R06": "pass",
+  "R07": "pass",
+  "R08": "fail",
+  "R09": "pass",
+  "R11": "pass",
+  "R12": "fail",
+  "R13": "fail",
+  "R14": "pass",
+  "R15": "pass",
+  "R16": "pass",
+  "R17": "needs_human",
+  "R18": "pass",
+  "R19": "pass"
+ },
+ "field_status": {
+  "contractor": "clean",
+  "deck_height_in": "clean",
+  "existing_footprint_sqft": "clean",
+  "footing_depth_in": "clean",
+  "front_setback_ft": "clean",
+  "guard_height_in": "clean",
+  "guard_opening_in": "clean",
+  "handrail": "clean",
+  "joist_spacing_in": "conflict",
+  "ledger_fastener": "clean",
+  "lot_area_sqft": "clean",
+  "new_area_sqft": "clean",
+  "owner_signature": "clean",
+  "parcel_id": "clean",
+  "project_type": "clean",
+  "rear_setback_ft": "clean",
+  "side_setback_ft": "clean",
+  "stair_riser_count": "clean",
+  "stair_riser_in": "clean",
+  "stair_tread_in": "clean",
+  "valuation_usd": "clean",
+  "zoning_district": "clean"
+ },
+ "fields": {
+  "contractor": "owner-builder",
+  "deck_height_in": 41,
+  "existing_footprint_sqft": 2170,
+  "footing_depth_in": 42,
+  "front_setback_ft": 32.0,
+  "guard_height_in": 30,
+  "guard_opening_in": 5.0,
+  "handrail": true,
+  "joist_spacing_in": 16,
+  "ledger_fastener": "lag screws",
+  "lot_area_sqft": 9700,
+  "new_area_sqft": 359,
+  "owner_signature": false,
+  "parcel_id": "LH-7194-511",
+  "project_type": "deck",
+  "rear_setback_ft": 17.5,
+  "side_setback_ft": 11.0,
+  "stair_riser_count": 2,
+  "stair_riser_in": 7.25,
+  "stair_tread_in": 10.5,
+  "valuation_usd": 92350,
+  "zoning_district": "R1"
+ },
+ "format": "scan",
+ "label_style": {
+  "contractor": "standard",
+  "deck_height_in": "standard",
+  "existing_footprint_sqft": "standard",
+  "footing_depth_in": "standard",
+  "front_setback_ft": "standard",
+  "guard_height_in": "standard",
+  "guard_opening_in": "standard",
+  "handrail": "standard",
+  "joist_spacing_in": "standard",
+  "ledger_fastener": "typo",
+  "lot_area_sqft": "standard",
+  "new_area_sqft": "standard",
+  "owner_signature": "standard",
+  "parcel_id": "standard",
+  "project_type": "standard",
+  "rear_setback_ft": "standard",
+  "side_setback_ft": "standard",
+  "stair_riser_count": "standard",
+  "stair_riser_in": "standard",
+  "stair_tread_in": "standard",
+  "valuation_usd": "unusual",
+  "zoning_district": "standard"
+ },
+ "project_type": "deck",
+ "split": "dev",
+ "synthetic": true,
+ "violations": [
+  {
+   "critical": false,
+   "rule_id": "R01"
+  },
+  {
+   "critical": true,
+   "rule_id": "R08"
+  },
+  {
+   "critical": true,
+   "rule_id": "R12"
+  },
+  {
+   "critical": true,
+   "rule_id": "R13"
+  }
+ ]
+}

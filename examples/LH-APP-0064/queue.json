@@ -1,0 +1,17 @@
+{
+ "disclaimer": "SYNTHETIC DATA ONLY. Larkspur Hollow and its code are fictional. This tool gives no legal advice. Not for production use.",
+ "items": [
+  {
+   "app_id": "LH-APP-0064",
+   "rule_id": "R09",
+   "section": "LHRC 11.3.1",
+   "title": "Lot coverage",
+   "critical": true,
+   "status": "needs_human",
+   "reason": "needs a person: the existing footprint (existing_footprint_sqft) is missing",
+   "inputs": {
+    "existing_footprint_sqft": null
+   }
+  }
+ ]
+}

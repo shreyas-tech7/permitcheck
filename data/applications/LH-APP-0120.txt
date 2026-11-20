@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0120
+Applicant: Priya Nandakumar
+Site address: 63 Wren Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+| Item | Entry |
+| --- | --- |
+| Project type | Deck |
+| Assessor lot no. | LH-5630-420 |
+| Owner signature | Yes |
+| Contractor | LHC-99939 |
+| Valuation | $ 108600 |
+| Zoning | District R2 |
+| Lot size | 7,150 sq ft |
+| Existing building footprint | 1520 SF |
+| Proposed area | 259 sf |
+| Setback (front) | 31 feet |
+| Side yard setback | 5.5 feet |
+| Rear setback | 16 feet |
+| Deck height above grade | 12 in |
+| Max riser | 6 inches |
+| Tread depth | 11 inches |
+| Risers | 7 |
+| Handrail | Yes |
+| Joist spacing (o.c.) | 12" |
+| Footing depth below grade | 30" |
+| Ledger attachment | none, freestanding deck |

@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0222
+Applicant: Lee Marchetti
+Site address: 772 Fernbank Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+The project type is Addition. The parcel id is LH-9617-364. The owner signed is Yes. The contractor is owner-builder. The valuation is $12,800. The zone is R3. The parcel area is 6450 SF. The existing building footprint is 1520 sf. The area of new work is ~629 square feet. The front setback is 20 feet. The side yard setback is 6 ft. The rear yard setback is 18.5 feet. The building height is 14'-6". The finished ceiling height is 96 in. The bedrooms added is 0. The egress window is None. The smoke detector is Y. The number of stories is 1. The foundation type is basement.

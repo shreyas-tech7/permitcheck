@@ -1,0 +1,28 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0051
+Applicant: Rosa Delgado
+Site address: 378 Orchard Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Type of work: New deck
+Parcel number: LH-7975-620
+Signed by owner: Signed
+Contractor license: LHC-14837
+Value of work: $98,050
+Zone: R-3
+Parcel area: 11,400 sq ft
+Existing building footprint: 2,240 sq ft
+Proposed area: 367 sq ft
+Setback (front): 18 ft 6 in
+Side yard setback: 6 feet
+Rear yard setback: 10 feet
+Walking surface height: 36 inches
+Railing height: 40 in
+Max opening in guard: 3"
+Max riser: 6.5"
+Riser count: 7
+Handrail provided: Provided
+Joist spacing (o.c.): 16 in
+Depth of fotings: 31 inches
+Ledger: bolts

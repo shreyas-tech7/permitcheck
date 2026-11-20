@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0140
+Applicant: Dana Ilves
+Site address: 358 Millrace Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+The work type is Addition. The apn is LH-6055-373. The owner signature is Yes. The builder is owner-builder. The job cost is $77,650. The zoning is R-1. The parcel area is 7,750 sq ft. The existing footprint is 1780 SF. The new floor area is 900 SF. The front setback is 32.5 feet. The setback (side) is 10 ft. The setback (rear) is 22.5'. The building height is 14.5 ft. The ceiling height is 85". The bedrooms added is 1. The emergency escape window is Yes. The smoke alarm is Yes. The number of stories is one.

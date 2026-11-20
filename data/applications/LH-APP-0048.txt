@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0048
+Applicant: Rosa Delgado
+Site address: 910 Larkspur Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Work type: Deck
+Assessor lot no.: LH-4438-827
+Owner signature: Signed
+Contractor: LHC-34915
+Zone: R-3
+Parcel area: 5900 SF
+Existing building footprint: 1340 sf
+Proposed area: 397 square feet
+Front setback: ~12 ft
+Side yard setback: 13 ft
+Deck height above grade: 25 in
+Baluster spacing: 3.25 in
+Max riser: 7.25 in
+Stair tread: 10.5 inches
+Risers: 6
+Stair handrail: Not provided
+Joist spacing (o.c.): 12"
+Footings go down: 45"
+Ledger fastener: none, freestanding deck

@@ -1,0 +1,27 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0233
+Applicant: Lee Marchetti
+Site address: 678 Fernbank Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Project type: Room addition
+APN: LH-7326-943
+Owner signed: Signed
+Contractor license: owner-builder
+Job cost: $ 12650
+Zoning district: District R2
+Lot area: 10000 sf
+Existing footprint: 2,260 sq ft
+Area of new work: 1,069 square feet
+Setback (front): 34'
+Setback (side): 12 feet
+Rear yard setback: 25 feet
+Height of addition: 23'
+Ceiling height: 99 in
+Bedrooms added: 3
+Egress window: Provided
+Hardwired smoke alarm: Yes
+Stries: 3
+Foundation: concrete piers
+Revised existing footprint: 2,200 square feet

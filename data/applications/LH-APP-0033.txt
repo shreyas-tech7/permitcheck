@@ -1,0 +1,28 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0033
+Applicant: Kenji Ward
+Site address: 941 Wren Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Work type: New deck
+Existing deck height: 15 in (old deck to be removed)
+Parcel number: LH-6171-754
+Signed by owner: Signed
+Builder: LHC-58771
+Lot size: 7,050 sq ft
+Existing building footprint: 1700 sf
+New floor area: 323 sq ft
+Front setback: 39.5'
+Side setback: 12 ft 6 in
+Rear setback: 32'
+Deck height: 33"
+Guardrail height: 42"
+Gap between pickets: 3.5"
+Tread depth: approx. 11 1/2 in
+Risers: 3
+Handrail provided: N
+Joist spacing (o.c.): 12 inches
+Depth of fotings: 37 inches
+Ledger attachment: lag screws
+Existing rear setback of garage: 1 ft

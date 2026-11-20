@@ -1,0 +1,27 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0185
+Applicant: Kenji Ward
+Site address: 899 Larkspur Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Work type: Deck
+Parcel ID: LH-9976-943
+Owner signed: Signed
+Builder: LHC-66531
+Job cost: $109,250
+Zone: District R1
+Parcel area: 10250 SF
+Existing footprint: 2020 sf
+Area of new work: 2162 SF
+Distance to side lot line: 10.5 feet
+Rear setback: 216 in
+Deck height: 55 inches
+Guardrail height: 42 inches
+Stair riser: 6 1/4 in
+Stair tread: 11"
+Risers: 2
+Handrail provided: Not provided
+Joist spacing: 16 in
+Footing depth: 23"
+Ledger attachment: lag screws

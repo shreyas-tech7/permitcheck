@@ -1,0 +1,30 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0027
+Applicant: Morgan Pike
+Site address: 22 Copper Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Project type: Rear deck
+Parcel ID: LH-3516-357
+Signed by owner: Yes
+Contractor license: owner-builder
+Vlue of work: $1
+Zone: R-3
+Parcel area: 5700 sf
+Existing building footprint: 1070 SF
+Existing deck height: 14 in (old deck to be removed)
+Area of new work: 191 sf
+Setback (front): 28'
+Side setback: 8 feet
+Rear yard setback: 10 ft
+Walking surface height: 33 in
+Guardrail height: 41 in
+Baluster spacing: 3"
+Riser height: 6 inches
+Tread depth: 10 1/2 inches
+Number of risers: 5
+Handrail: Y
+Joist spacing: 12 inches
+Footings go down: 37 in
+Ledger fastener: through bolts

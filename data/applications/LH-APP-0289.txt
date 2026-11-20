@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0289
+Applicant: Morgan Pike
+Site address: 482 Larkspur Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Project type: Home addition
+Parcel ID: LH-3557-734
+Signed by owner: Signed
+Contractor: LHC-98535
+Esimated cost: $118,100
+Zone: R1
+Lot area: 8,250 sq ft
+Existing coverage: 1,810 sq ft
+New floor area: 1523 sf
+Front setback: 32 ft
+Setback (side): 10 feet
+Setback (rear): 21'
+Height of addition: 15'-6"
+Ceiling: 77"
+New bedrooms: two
+Hardwired smoke alarm: Y
+Number of stories: one
+Foundation: slab
+Revised new bedrooms: 0

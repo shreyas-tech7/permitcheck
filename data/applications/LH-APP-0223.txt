@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0223
+Applicant: Sam Okafor
+Site address: 587 Copper Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The work type is Deck. The apn is LH-1150-497. The owner signed is Signed. The cntractor license is LHC-12957. The estimated cost is 82,100 USD. The zoning is District R1. The parcel area is 10,000 square feet. The existing building footprint is 2,200 square feet. The proposed area is 1,800 sq ft. The setback (front) is 32'. The side setback is 14 feet. The setback (rear) is 192 in. The deck height is 2 ft 0 in. The guard height is 3 ft 5 in. The gap between pickets is 5 inches. The stair riser is 7". The stair tread is 11.5 inches. The risers is 3. The handrail is Not provided. The joist spacing is 12 inches. The depth of footings is 38 in. The ledger is bolts.

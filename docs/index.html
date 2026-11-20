@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>permitcheck results</title>
+<style>
+:root { --bg: #f7f8f5; --fg: #1c241f; --muted: #5a665e; --line: #d6dbd4; --accent: #9a6a12; }
+@media (prefers-color-scheme: dark) { :root { --bg: #18201c; --fg: #e9eee8; --muted: #a3b0a6;
+  --line: #34403a; --accent: #e8b048; } }
+body { background: var(--bg); color: var(--fg); font: 16px/1.5 system-ui, sans-serif; margin: 0 auto;
+  max-width: 980px; padding: 24px 16px; }
+.warn { border: 2px solid var(--accent); padding: 8px 12px; font-weight: 600; }
+table { border-collapse: collapse; width: 100%; display: block; overflow-x: auto; }
+th, td { border-bottom: 1px solid var(--line); padding: 6px 8px; text-align: left; vertical-align: top; }
+small, .muted { color: var(--muted); }
+pre { white-space: pre-wrap; border: 1px solid var(--line); padding: 12px; font-size: 13px; }
+a { color: var(--accent); }
+</style>
+</head>
+<body>
+<p class="warn">SYNTHETIC DATA ONLY. Larkspur Hollow and its code are fictional. This tool gives no legal advice. Not for production use.</p>
+<h1>permitcheck</h1>
+<p>The model reads. Code decides. permitcheck checks a synthetic permit application against a fictional city code,
+cites each section, and sends anything unclear to a person.</p>
+<p>A <b>false approve</b> is an application with at least one seeded critical violation that the tool marks as pass
+on that rule.</p>
+<h2>Results</h2>
+<table><thead><tr><th>Metric</th><th>Dev<br><small>200 apps, seed 20261120</small></th><th>Held-out<br><small>100 apps, seed 20261120</small></th><th>Second seed<br><small>300 apps, seed 20261121</small></th></tr></thead><tbody><tr><th scope=row>Field F1</th><td>0.973</td><td>0.971</td><td>0.970</td></tr><tr><th scope=row>Violation precision</th><td>100.0% <small>(167 of 167, CI 97.8% to 100.0%)</small></td><td>100.0% <small>(90 of 90, CI 95.9% to 100.0%)</small></td><td>100.0% <small>(268 of 268, CI 98.6% to 100.0%)</small></td></tr><tr><th scope=row>Violation recall</th><td>90.3% <small>(167 of 185, CI 85.1% to 93.8%)</small></td><td>88.2% <small>(90 of 102, CI 80.6% to 93.1%)</small></td><td>88.7% <small>(268 of 302, CI 84.7% to 91.8%)</small></td></tr><tr><th scope=row>False approves per critical violation</th><td>0.0% <small>(0 of 103, CI 0.0% to 3.6%)</small></td><td>0.0% <small>(0 of 63, CI 0.0% to 5.7%)</small></td><td>0.0% <small>(0 of 172, CI 0.0% to 2.2%)</small></td></tr><tr><th scope=row>False-approve rate (applications)</th><td>0.0% <small>(0 of 77, CI 0.0% to 4.8%)</small></td><td>0.0% <small>(0 of 47, CI 0.0% to 7.6%)</small></td><td>0.0% <small>(0 of 134, CI 0.0% to 2.8%)</small></td></tr><tr><th scope=row>Needs-human rate</th><td>13.2% <small>(452 of 3430, CI 12.1% to 14.4%)</small></td><td>11.9% <small>(203 of 1708, CI 10.4% to 13.5%)</small></td><td>11.9% <small>(611 of 5136, CI 11.0% to 12.8%)</small></td></tr><tr><th scope=row>Citation validity (fixed count)</th><td>100.0% <small>(619 of 619)</small></td><td>100.0% <small>(293 of 293)</small></td><td>100.0% <small>(879 of 879)</small></td></tr></tbody></table>
+<p class="muted">Extractor rule-v1. Model: none (rule-based, no model). Code LHRC 2026.1.
+Run date 2026-11-20. CI is a 95% Wilson score interval. A zero count from a small sample still has a wide
+upper bound.</p>
+<h2>Worked examples</h2>
+<h3>LH-APP-0018</h3><p><a href="../examples/LH-APP-0018/checklist.md">Checklist</a> · <a href="../examples/LH-APP-0018/letter.md">Letter</a> · <a href="../data/applications/LH-APP-0018.txt">Application text</a> · 2 items in the review queue</p><pre># Correction letter: LH-APP-0018
+
+&gt; SYNTHETIC DATA ONLY. Larkspur Hollow and its code are fictional. This tool gives no legal advice. Not for production use.
+
+Dear applicant,
+
+We ran a first-pass check of application LH-APP-0018 against the Larkspur Hollow Residential Code (LHRC) version 2026.1. A software tool wrote this draft. A reviewer reads it before it is sent.
+
+## Please correct these items
+
+1. [R18, LHRC 12.4.2] Footing depth. We read that footing depth is 29 in, and this section requires at least 30 in. The code says: The bottom of each deck footing sits at least 30 in below grade.
+2. [R03, LHRC 10.1.3] Who builds. We read that contractor is LHC-288, which is not in the form this section requires. The code says: The application names a contractor with a city license number in the form LHC-00000, or states that the owner builds the work.
+3. [R11, LHRC 12.1.1] Deck size for standard review. We read that new area is 1500 sq ft, and this section requires at most 500 sq ft. The code says: A deck reviewed on the standard path has no more than 500 sq ft of floor area. A larger deck needs an engineered review.
+
+## Please confirm these items
+
+We could not read these clearly enough to decide. Please state each value plainly, with units.
+
+1. [R12, LHRC 12.2.1] Guard height. The guard height (guard_height_in) is missing. The code says: When the walking surface of a deck is more than 24 in above grade, a guard runs along each open side and stands at least 38 in tall.
+2. [R14, LHRC 12.3.1] Stair riser height. The stair riser (stair_riser_in) was read with low confidence (0.30). The code says: Each stair riser on a deck stair is no taller than 7.5 in.
+
+Thank you,
+
+Larkspur Hollow Building Division (fictional)
+</pre><h3>LH-APP-0064</h3><p><a href="../examples/LH-APP-0064/checklist.md">Checklist</a> · <a href="../examples/LH-APP-0064/letter.md">Letter</a> · <a href="../data/applications/LH-APP-0064.txt">Application text</a> · 1 items in the review queue</p><pre># Correction letter: LH-APP-0064
+
+&gt; SYNTHETIC DATA ONLY. Larkspur Hollow and its code are fictional. This tool gives no legal advice. Not for production use.
+
+Dear applicant,
+
+We ran a first-pass check of application LH-APP-0064 against the Larkspur Hollow Residential Code (LHRC) version 2026.1. A software tool wrote this draft. A reviewer reads it before it is sent.
+
+## Please correct these items
+
+1. [R10, LHRC 11.4.1] Height of an addition. We read that height is 34.5 ft, and this section requires at most 30 ft. The code says: An addition is no taller than 30 ft, measured from grade to the highest point of the roof.
+2. [R23, LHRC 13.3.2] Smoke alarm. We read that smoke alarm: no. The code says: An addition has at least one smoke alarm wired to the house system.
+
+## Please confirm these items
+
+We could not read these clearly enough to decide. Please state each value plainly, with units.
+
+1. [R09, LHRC 11.3.1] Lot coverage. The existing footprint (existing_footprint_sqft) is missing. The code says: The existing footprint plus the new area covers no more than 40 percent of the lot.
+
+Thank you,
+
+Larkspur Hollow Building Division (fictional)
+</pre>
+<p class="muted">Written by scripts/make_site.py from the results and examples folders.
+See the <a href="../README.md">README</a>.</p>
+</body>
+</html>

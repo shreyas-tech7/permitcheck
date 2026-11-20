@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0193
+Applicant: Morgan Pike
+Site address: 911 Wren Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Project type: Rear deck
+Parcel number: LH-4660-825
+Signed by owner: Signed
+Builder: owner-builder
+Value of work: $ 63750
+Zone: District R1
+Parcel area: 7,850 sq ft
+Existing building footprint: 1710 sf
+New floor area: 227 sf
+Front yard setback: 30 ft
+Rear yard setback: 28 ft
+Deck height above grade: 3'-5"
+Guardrail height: 40 inches
+Gap between pickets: 3 1/4 inches
+Riser height: 7.5"
+Stair tread: 11.5"
+Risers: 1
+Stair handrail: Not provided
+Joist spacing (o.c.): 12"
+Depth of footings: 38 inches
+Ledger: bolts
+Revised risers: 3

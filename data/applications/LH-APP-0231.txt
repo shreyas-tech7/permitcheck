@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0231
+Applicant: Alex Brandt
+Site address: 900 Quarry Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+| Item | Entry |
+| --- | --- |
+| Work type | New deck |
+| Parcel number | LH-1437-329 |
+| Owner signed | Yes |
+| Contractor license | LHC-15346 |
+| Estimated cost | 10,400 USD |
+| Zoning district | District R1 |
+| Parcel area | 11,450 square feet |
+| Existing coverage | 2280 sf |
+| New floor area | 177 sq ft |
+| Setback (front) | 28 ft |
+| Setback (side) | 10.5' |
+| Rear yard setback | 27 ft |
+| Deck height | 12" |
+| Guardrail height | 39 in |
+| Max opening in guard | 3" |
+| Riser height | 6" |
+| Min tread | 10.5 in |
+| Joists at | 12 inches |
+| Footig depth | 38 in |
+| Ledger attachment | lag screws |

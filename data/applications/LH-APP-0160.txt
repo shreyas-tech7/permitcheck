@@ -1,0 +1,28 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0160
+Applicant: Priya Nandakumar
+Site address: 238 Fernbank Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+| Item | Entry |
+| --- | --- |
+| Work type | Room addition |
+| Parcel ID | LH-4366-257 |
+| Signed by owner | Signed |
+| Contractor license | LHC-36656 |
+| Value of work | $ 77500 |
+| Zoning | District R3 |
+| Lot size | 8750 SF |
+| Existing footprint | 2010 sf |
+| Area of new work | 297 sq ft |
+| Front yard setback | 18' |
+| Side setbck | 8' |
+| Rear yard setback | 156 in |
+| Addition height | 18.5 feet |
+| Finished ceiling height | 87 in |
+| Number of new bedrooms | 1 |
+| Emergency escape window | Provided |
+| Hardwired smoke alarm | Y |
+| Stories | 2 |
+| Foundation system | slab |

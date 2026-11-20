@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0041
+Applicant: Priya Nandakumar
+Site address: 269 Larkspur Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The project type is Rear deck. The parcel id is LH-7656-411. The signed by owner is Yes. The builder is LHC-75183. The value of work is $ 31200. The zone is R-3. The parcel area is 10900 SF. The existing footprint is 1670 SF. The new floor area is 122 sq ft. The setback (front) is 22 ft 6 in. The setback (side) is 7.5 ft. The setback (rear) is 20'-6". The deck height above grade is 16 in. The max riser is 6.75 inches. The min tread is 11 1/2 inches. The riser count is 3. The handrail provided is N. The joist spacing is 12 inches. The foting depth below grade is roughly 41 in. The ledger fastener is lag screws.

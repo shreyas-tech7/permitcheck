@@ -1,0 +1,28 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0275
+Applicant: Jordan Vale
+Site address: 804 Orchard Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+| Item | Entry |
+| --- | --- |
+| Type of work | Rear deck |
+| Existing rear setback of garage | 2 ft |
+| Signed by owner | Signed |
+| Builder | owner-builder |
+| Value of work | 91,350 USD |
+| Zoning district | R2 |
+| Lot size | 8200 sf |
+| Existing footprint | 1,630 square feet |
+| New floor area | 225 sf |
+| Setback (front) | 25 ft |
+| Side yard setback | 10' |
+| Rear setback | 29'-6" |
+| Deck height above grade | 13 in |
+| Stair tread | 12 inches |
+| Riser count | seven |
+| Handrail | Yes |
+| Joists at | 12 inches |
+| Depth of footings | 2'-10" |
+| Ledger attachment | lag screws |

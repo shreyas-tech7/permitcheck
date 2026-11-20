@@ -1,0 +1,25 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0238
+Applicant: Dana Ilves
+Site address: 265 Copper Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Project type: Addition
+Parcel ID: LH-8001-442
+Signed by owner: Yes
+Builder: LHC-53922
+Job cost: $10,500
+Zoning: R1
+Lot size: 5,550 sq ft
+Existing footprint: 1,430 square feet
+Proposed area: 508 sq ft
+Front yard setback: 29.5 feet
+Setback (rear): 198 in
+Addition height: 28 feet
+Ceiling: 103 inches
+Emergency escape window: Y
+Smoke alarm: Yes
+Floors: 1
+Foundation: crawlspace
+Revised proposed area: 568 sq ft

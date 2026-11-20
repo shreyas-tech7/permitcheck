@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0063
+Applicant: Kenji Ward
+Site address: 798 Copper Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Project type: Home addition
+Parcel number: LH-1518-641
+Owner signature: Not signed
+Contractor license: owner-builder
+Value of work: 83,150 USD
+Zoning district: R3
+Parcel area: 6700 SF
+Existing building footprint: 1,150 sq ft
+Area of new work: 900 sf
+Front setback: 17.5'
+Setback (side): 6 ft 6 in
+Rear setback: 12.5 feet
+Height of additin: 20'
+Ceiling height: 108 inches
+Number of new bedrooms: 1
+Emergency escape window: Provided
+Smoke alarm: Y
+Floors: 1
+Foundation: crawl space

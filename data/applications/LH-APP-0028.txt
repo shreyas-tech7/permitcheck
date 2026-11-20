@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0028
+Applicant: Lee Marchetti
+Site address: 472 Quarry Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+| Item | Entry |
+| --- | --- |
+| Type of work | Home addition |
+| APN | LH-7089-465 |
+| Signed by owner | Yes |
+| Contractor license | owner-builder |
+| Valuation | 60,400 USD |
+| Zoning district | District R3 |
+| Parcel area | 8,900 square feet |
+| Existing footprint | 2,250 square feet |
+| New floor area | 720 sq ft |
+| Setback (front) | 28 ft 6 in |
+| Setback (side) | 144 in |
+| Setback (rear) | 12 feet |
+| Addition height | 19 feet |
+| Ceiling height | 85" |
+| New bedrooms | 2 |
+| Egrss window | Provided |
+| Smoke alarm | Provided |
+| Stories | one |
+| Foundation type | slab on grade |
+| Revised addition height | 21' |

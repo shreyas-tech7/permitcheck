@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0097
+Applicant: Priya Nandakumar
+Site address: 214 Fernbank Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The work type is New deck. The parcel number is LH-8938-373. The signed by owner is Signed. The builder is owner-builder. The estimated cost is $ 45100. The zonng is R-1. The existing coverage is 2100 SF. The proposed area is 500 square feet. The front setback is 36.5'. The side setback is 12'. The setback (rear) is 174 in. The deck height is 33". The guardrail height is 41 inches. The baluster spacing is 3 in. The stair riser is 7 in. The stair tread is 12". The riser count is 4. The handrail is Provided. The joist spacing is 24 in. The footing depth below grade is 38". The existing deck height is 17 in. (old deck to be removed) The ledgr is through bolts.

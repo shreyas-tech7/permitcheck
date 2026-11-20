@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0143
+Applicant: Jordan Vale
+Site address: 371 Millrace Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Work type: New deck
+Parcel ID: LH-7379-457
+Owner signed: Signed
+Contractor: LHC-64526
+Value of work: 114,400 USD
+Zoning: R-2
+Parcel area: 10150 sf
+Existing coverage: 2380 sf
+Existing rear setback of garage: 1 ft
+Proposed area: 265 square feet
+Front setback: 24
+Distance to side lot line: 7 ft 6 in
+Rear yard setback: 28.5 feet
+Walking surface height: 17 in
+Guardrail height: 40 in
+Bluster spacing: 3 1/2 inches
+Stair riser: 6.75
+Tread depth: 11"
+Riser count: 6
+Handrail provided: Yes
+Footing depth: 21"
+Ledger: freestanding

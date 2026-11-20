@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0050
+Applicant: Kenji Ward
+Site address: 777 Copper Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+The project type is Home addition. The owner signed is Yes. The contractor is owner-builder. The job cost is 17,750 USD. The zone is District R2. The parcel area is 6150 SF. The existing footpint is 1370 sf. The area of new work is 1,443 square feet. The front yard setback is 26'. The side setback is 13 ft 6 in. The setback (rear) is 17.5'. The building height is 22'. The finished ceiling height is 92 in. The new bedrooms is 2. The egress window is Provided. The smoke detector is N. The floors is three. The foundation type is basement.

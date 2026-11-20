@@ -1,0 +1,27 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0146
+Applicant: Lee Marchetti
+Site address: 388 Wren Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+| Item | Entry |
+| --- | --- |
+| Project type | Addition |
+| Parcel ID | LH-5468-917 |
+| Owner signature | Signed |
+| Builder | pending |
+| Zoning | R2 |
+| Lot area | 10000 sf |
+| Existing building footprit | 2000 SF |
+| Proposed area | 2,000 square feet |
+| Front yard setback | 28'-6" |
+| Side setback | 12 feet |
+| Seback (rear) | 24 feet |
+| Finished ceiling height | 89 inches |
+| Bedrooms added | one |
+| Existing rear setback of garage | 4 ft |
+| Emergency escape window | Y |
+| Smoke alarm | Yes |
+| Floors | two |
+| Foundation system | basement |

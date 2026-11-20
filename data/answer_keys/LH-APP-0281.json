@@ -1,0 +1,104 @@
+{
+ "app_id": "LH-APP-0281",
+ "code_version": "2026.1",
+ "distractors": [
+  "existing_garage_setback"
+ ],
+ "edge_cases": [
+  "R04:at_limit"
+ ],
+ "expected": {
+  "R01": "pass",
+  "R02": "pass",
+  "R03": "pass",
+  "R04": "pass",
+  "R05": "pass",
+  "R06": "pass",
+  "R07": "pass",
+  "R08": "pass",
+  "R09": "fail",
+  "R10": "pass",
+  "R20": "fail",
+  "R21": "pass",
+  "R22": "pass",
+  "R23": "pass",
+  "R24": "pass",
+  "R25": "pass"
+ },
+ "field_status": {
+  "ceiling_height_in": "clean",
+  "contractor": "clean",
+  "egress_window": "missing",
+  "existing_footprint_sqft": "clean",
+  "foundation_type": "clean",
+  "front_setback_ft": "clean",
+  "height_ft": "clean",
+  "lot_area_sqft": "clean",
+  "new_area_sqft": "clean",
+  "new_bedrooms": "clean",
+  "owner_signature": "clean",
+  "parcel_id": "clean",
+  "project_type": "clean",
+  "rear_setback_ft": "clean",
+  "side_setback_ft": "clean",
+  "smoke_alarm": "clean",
+  "stories": "clean",
+  "valuation_usd": "clean",
+  "zoning_district": "clean"
+ },
+ "fields": {
+  "ceiling_height_in": 94,
+  "contractor": "owner-builder",
+  "egress_window": false,
+  "existing_footprint_sqft": 1540,
+  "foundation_type": "crawlspace",
+  "front_setback_ft": 25.0,
+  "height_ft": 18.5,
+  "lot_area_sqft": 7800,
+  "new_area_sqft": 1689,
+  "new_bedrooms": 0,
+  "owner_signature": true,
+  "parcel_id": "LH-8372-349",
+  "project_type": "addition",
+  "rear_setback_ft": 24.0,
+  "side_setback_ft": 13.0,
+  "smoke_alarm": true,
+  "stories": 2,
+  "valuation_usd": 1,
+  "zoning_district": "R3"
+ },
+ "format": "prose",
+ "label_style": {
+  "ceiling_height_in": "standard",
+  "contractor": "standard",
+  "existing_footprint_sqft": "standard",
+  "foundation_type": "standard",
+  "front_setback_ft": "standard",
+  "height_ft": "standard",
+  "lot_area_sqft": "standard",
+  "new_area_sqft": "typo",
+  "new_bedrooms": "standard",
+  "owner_signature": "standard",
+  "parcel_id": "standard",
+  "project_type": "standard",
+  "rear_setback_ft": "standard",
+  "side_setback_ft": "standard",
+  "smoke_alarm": "standard",
+  "stories": "typo",
+  "valuation_usd": "unusual",
+  "zoning_district": "standard"
+ },
+ "project_type": "addition",
+ "split": "dev",
+ "synthetic": true,
+ "violations": [
+  {
+   "critical": true,
+   "rule_id": "R09"
+  },
+  {
+   "critical": false,
+   "rule_id": "R20"
+  }
+ ]
+}

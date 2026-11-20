@@ -1,0 +1,27 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0297
+Applicant: Rosa Delgado
+Site address: 970 Larkspur Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Work type: Rear deck
+Parcel ID: LH-9771-433
+Owner signed: Signed
+Contractor license: owner-builder
+Valuation: 104,250 USD
+Zoning district: R2
+Lot size: 7650
+Existing building footprint: 1,220 square feet
+Area of new work: 426 square feet
+Setback (front): 32 ft
+Side setback: 156 in
+Rear setback: 24 ft
+Deck height: 29 in
+Guard heght: 40 inches
+Max opening in guard: 3 1/4 in
+Stair riser: 6.75 inches
+Number of risers: four
+Handrail provided: Provided
+Joist spacing: 16 inches
+Ledger attachment: 16d nails

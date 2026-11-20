@@ -1,0 +1,25 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0256
+Applicant: Dana Ilves
+Site address: 517 Fernbank Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Work type: Home addition
+APN: LH-5777-457
+Owner signed: Signed
+Contractor: LHC-48062
+Valuation: 105,800 USD
+Zone: R1
+Parcel area: 7400 SF
+Existing coverage: 1,320 square feet
+Proposd area: 387 square feet
+Front setback: 28.5 ft
+Distance to side lot line: 13 ft
+Setback (rear): 27'
+Building height: 22 ft 6 in
+Ceiling height: 84 inches
+New bedrooms: 2
+Egress window: Y
+Smoke alarm: Provided
+Foundation: crawl space

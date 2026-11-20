@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0148
+Applicant: Kenji Ward
+Site address: 476 Quarry Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The project type is New deck. The assessor lot no. is LH-9950-459. The owner signed is Yes. The builder is owner-builder. The job cost is $ 48950. The zone is District R2. The lot area is 5,450 square feet. The existing footprint is 1320 SF. The new floor area is 500 sf. The front yard setback is 32.5 ft. The distance to side lot line is 11. The rear yard setback is 26 ft 6 in. The walking surface height is 59 in. The guard height is 42 in. The gap between pickets is 5.5". The max riser is 6 3/4 inches. The tread depth is 10 1/2 inches. The number of risers is 2. The handrail provided is N. The joist spacng (o.c.) is 19.2". The foting depth below grade is 34". The ledger attachment is freestanding.

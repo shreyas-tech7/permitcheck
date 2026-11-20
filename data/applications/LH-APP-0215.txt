@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0215
+Applicant: Alex Brandt
+Site address: 779 Thistle Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Project type: Addition
+Parcel ID: LH-5301-763
+Owner signed: Signed
+Contractor license: owner-builder
+Valution: $ 27150
+Zoning: R-3
+Lot size: 9,200 square feet
+Existing building footprint: 2,390 sq ft
+New floor area: 744 square feet
+Front yard setback: 20'
+Setback (side): 2.5'
+Setback (rear): 20'-6"
+Building height: 12'-6"
+Ceiling: 88 inches
+Number of new bedrooms: 2
+Smoke alarm: Yes
+Number of stories: 2
+Foundation: basement
+Revised valution: 27,650 USD

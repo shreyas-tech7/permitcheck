@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0035
+Applicant: Dana Ilves
+Site address: 524 Copper Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Type of work: Rear deck
+Assessor lot no.: LH-9856-622
+Owner signature: Yes
+Builder: LHC-24101
+Value of work: 1 USD
+Zoning district: R-1
+Lot size: 7650 sf
+Existing footprint: approx. 1150 SF
+New floor area: 184 square feet
+Setback (front): 37 ft
+Side setback: 8'
+Rear yard setback: 32'
+Walking surface height: 25"
+Guardrail height: 39 inches
+Baluster spacing: 3"
+Riser heiht: 7 1/4 in
+Min tread: 12"
+Risers: 7
+Handrail: Yes
+Joists at: 12 in
+Footing depth: 30"
+Ledger attachment: through bolts

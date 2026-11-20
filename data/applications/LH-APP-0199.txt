@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0199
+Applicant: Kenji Ward
+Site address: 652 Orchard Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+The type of work is Addition. The parcel id is LH-8020-824. The signed by owner is Signed. The contractor license is LHC-20614. The estimated cost is $ 1. The zoning district is R2. The lot area is 7,100 sq ft. The existing footprint is 1,360 square feet. The front yard setback is 29 ft 6 in. The side yard setback is 156 in. The setback (rear) is 19 feet. The height of addition is 228 in. The finished ceiling height is 88 inches. The number of new bedrooms is 0. The smoke detector is Provided. The number of stories is 4. The foundation system is slab on grade. The revised number of stories is 2.

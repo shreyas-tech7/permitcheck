@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0154
+Applicant: Alex Brandt
+Site address: 585 Larkspur Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+The project type is Room addition. The parcel number is LH-8093-496. The owner signed is Yes. The contractor license is owner-builder. The job cost is $ 13950. The zone is C-1. The lot size is 5650 SF. The existing coverage is 1050 sf. The new floor area is 351 sf. The front setback is 31 feet. The distance to side lot line is 12.5 ft. The rear setback is 31'-6". The height of addition is 24 feet. The new bedrooms is 3. The egress window is Not provided. The smoke alarm is Yes. The number of stories is 2. The foundation is crawl space.

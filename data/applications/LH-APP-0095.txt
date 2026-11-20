@@ -1,0 +1,33 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0095
+Applicant: Chris Abara
+Site address: 914 Orchard Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+| Item | Entry |
+| --- | --- |
+| Project type | New deck |
+| APN | LH-5403-584 |
+| Signed by owner | Signed |
+| Contractor | owner-builder |
+| Job cost | $78,800 |
+| Zoning | R2 |
+| Lot area | 6,450 square feet |
+| Existing coverage | 1,190 sq ft |
+| Proposed area | 355 sf |
+| Setback (front) | 26' |
+| Stback (side) | 14' |
+| Rear yard setback | 198 in |
+| Walking surface height | 24" |
+| Railing height | 40" |
+| Balustr spacing | 5" |
+| Riser height | 9 1/4 in |
+| Stair tread | 11" |
+| Riser count | 8 |
+| Stair handrail | Yes |
+| Joists at | 12" |
+| Footing depth | 38" |
+| Ledger attachment | lag screws |
+| Revised existing coverage | 1250 sf |
+| Revised riser height | 7.25 in |

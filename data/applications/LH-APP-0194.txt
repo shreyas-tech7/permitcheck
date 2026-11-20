@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0194
+Applicant: Dana Ilves
+Site address: 53 Larkspur Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Project type: Addition
+Assessor lot no.: LH-6155-674
+Signed by owner: No
+Builder: LHC-56968
+Valuation: $ 13100
+Zoning: R1
+Parcel area: 10000 SF
+Existing building footprint: 2,800 sq ft
+Area of new work: 900 square feet
+Setback (front): 29 ft
+Side setback: 15 ft 6 in
+Rear yard setback: 33 ft 6 in
+Height of addition: 20 ft
+Ceiling: 8'-3"
+Bedrooms added: 3
+Escape window: Yes
+Smoke detector: Y
+Floors: 1
+Foundation: slab on grade

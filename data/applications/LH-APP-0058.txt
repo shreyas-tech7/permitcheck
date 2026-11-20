@@ -1,0 +1,28 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0058
+Applicant: Priya Nandakumar
+Site address: 200 Thistle Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Project type: Deck
+APN: 6592-392
+Signed by owner: Yes
+Contractor: owner-builder
+Value of work: 7,700 USD
+Zoning district: R-1
+Prcel area: 6,850 sq ft
+Existing building footprint: 1550 SF
+New floor area: 624 SF
+Setback (front): 37 feet
+Side setback: 16 feet
+Setback (rear): 28 ft 6 in
+Deck height above grade: 13 in
+Riser height: 6.25"
+Min tread: 9.75"
+Risers: eight
+Handrail provided: Y
+Joist spacing (o.c.): 16 in
+Footing depth: 41 in
+Ledger fastener: none, freestanding deck
+Revised deck height above grade: 15"

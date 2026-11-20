@@ -1,0 +1,32 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0230
+Applicant: Sam Okafor
+Site address: 332 Quarry Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+| Item | Entry |
+| --- | --- |
+| Proect type | New deck |
+| APN | LH-1598-567 |
+| Signed by owner | Yes |
+| Contractor license | LHC-64220 |
+| Valuation | $ 97400 |
+| Zoning district | District R1 |
+| Lot size | 11950 SF |
+| Existing footprint | 3,050 sq ft |
+| New floor area | 350 square feet |
+| Setback (front) | 35' |
+| Side setback | 7' |
+| Rear yard setback | 29 feet |
+| Walking surface height | 2 ft 6 in |
+| Railing height | 38 inches |
+| Max opening in guard | 3" |
+| Stair riser | 6.25 in |
+| Min tread | 11 1/2 inches |
+| Risers | 2 |
+| Handrail | Provided |
+| Joists at | 16" |
+| Footing depth | 35 inches |
+| Ledger | nails |
+| Existing deck height | 8 in | (old deck to be removed)

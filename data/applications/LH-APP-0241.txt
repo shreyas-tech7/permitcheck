@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0241
+Applicant: Morgan Pike
+Site address: 972 Quarry Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+The work type is Addition. The parcel id is LH-3749-836. The signed by owner is Yes. The builder is LHC-72167. The estimated cost is $ 9100. The zoning district is District R1. The existing coverage is 2,800 square feet. The proposed area is 849 SF. The setback (front) is 31 ft. The side yard setback is 12'-6". The building height is 22 feet. The finished ceiling height is 99 inches. The new bedrooms is one. The egress window is Provided. The smoke alarm is Yes. The floors is 2. The foundation system is crawlspace.

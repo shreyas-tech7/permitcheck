@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0181
+Applicant: Alex Brandt
+Site address: 80 Orchard Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The type of work is New deck. The parcel id is LH-7180-336. The owner signature is Yes. The builder is owner-builder. The value of work is $ 101700. The zoning district is District R3. The parcel area is 5,100 sq ft. The existing coverage is 980 square feet. The new floor area is 555 sq ft. The front yard setback is ~17 ft. The setback (side) is 10 feet. The rear setback is 16 ft 6 in. The walking surface height is 19 in. The riser height is 6 in. The stair tread is 10 1/2 inches. The riers is 6. The handrail is Y. The joist spacing (o.c.) is 16 in. The footing depth below grade is 39".

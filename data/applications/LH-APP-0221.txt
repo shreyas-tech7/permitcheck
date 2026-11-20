@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0221
+Applicant: Rosa Delgado
+Site address: 946 Quarry Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Type of work: Home addition
+Assessor lot no.: LH-5116-583
+Signed by owner: Signed
+Contractor: owner-builder
+Valuation: $ 1
+Zoning district: R-1
+Lot size: 11650 SF
+Existing coverage: 2270
+Proposed area: 900 square feet
+Front setback: 37 feet
+Setback (side): 138 in
+Setback (rear): 312 in
+Height of addition: 20 ft 6 in
+Ceiling: 82 inches
+Bedrooms added: 2
+Emergency escape window: Yes
+Number of stories: 2
+Foundation: slab on grade
+Revised ceiling: 84 inches

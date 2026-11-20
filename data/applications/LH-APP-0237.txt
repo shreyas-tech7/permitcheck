@@ -1,0 +1,27 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0237
+Applicant: Chris Abara
+Site address: 751 Wren Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+| Item | Entry |
+| --- | --- |
+| Type of work | Addition |
+| Owner signed | Yes |
+| Builer | owner-builder |
+| Valuation | $104,950 |
+| Zoning | District R2 |
+| Lot area | 8300 SF |
+| Existing building footprint | 1,990 square feet |
+| Proposed area | 839 square feet |
+| Front yard setback | 330 in |
+| Distance to side lot line | 6' |
+| Height of addition | 21.5 ft |
+| Ceiling | 8 ft 8 in |
+| New bedrooms | 1 |
+| Egress window | Y |
+| Smoke alarm | Yes |
+| Number of stories | 1 |
+| Foundation system | concrete piers |
+| Revised front yard setback | 25'-6" |

@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0182
+Applicant: Kenji Ward
+Site address: 521 Wren Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+The type of work is Room addition. The apn is LH-9835-496. The signed by owner is Signed. The contractor license is owner-builder. The estiated cost is 55,300 USD. The zoning is R-3. The lot area is 11300 sf. The existing building footprint is 2280 sf. The proposed area is 1111 sf. The setback (front) is 27 feet. The side yard setback is 6.5. The setback (rear) is 20'-6". The height of addition is 18.5 feet. The ceiling is 87 inches. The new bedrooms is 3. The emergency escape window is Yes. The hardwired smoke alarm is Yes. The stories is 2. The foundation type is basement.

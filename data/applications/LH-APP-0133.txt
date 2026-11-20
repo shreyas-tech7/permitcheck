@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0133
+Applicant: Sam Okafor
+Site address: 491 Copper Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The work type is Deck. The apn is LH-7904-556. The signd by owner is Signed. The contractor is owner-builder. The job cost is $19,350. The zone is R-3. The existing footprint is 2,090 sq ft. The proposed area is 217 square feet. The setback (front) is 24.5 feet. The distance to side lot line is 6.5 ft. The rear yard setback is 15 ft. The deck height is 58 in. The railing height is 40". The max opening in guard is 3 in. The max riser is 7 1/2 inches. The stair tread is 10.5 inches. The number of risers is two. The stair handrail is No. The joist spacing is 12 in. The footing depth is 32 in. The ledger fastener is nails.

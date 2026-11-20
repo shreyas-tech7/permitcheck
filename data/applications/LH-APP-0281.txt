@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0281
+Applicant: Morgan Pike
+Site address: 601 Copper Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+The project type is Addition. The parcel number is LH-8372-349. The owner signed is Signed. The contractor is owner-builder. The job cost is $ 1. The zone is R3. The lot area is 7,800 square feet. The existing building footprint is 1,540 square feet. The poposed area is 1689 sf. The front yard setback is 25'. The existing rear setback of garage is 2 ft. The side yard setback is 13 feet. The rear setback is 24 ft. The building height is 18.5 feet. The ceiling is 94". The bedrooms added is 0. The smoke alarm is Yes. The sories is two. The foundation system is crawlspace.

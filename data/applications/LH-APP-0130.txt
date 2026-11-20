@@ -1,0 +1,31 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0130
+Applicant: Priya Nandakumar
+Site address: 208 Millrace Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+| Item | Entry |
+| --- | --- |
+| Type of work | New deck |
+| Assessor lot no. | LH-8529-430 |
+| Owner signed | Signed |
+| Contractor license | owner-builder |
+| Value of work | 5,400 USD |
+| Zoning | District R1 |
+| Lot area | 10,700 square feet |
+| Existing coverage | 2370 SF |
+| Area of new work | 147 SF |
+| Setback (front) | 31 feet |
+| Setback (side) | 16 feet |
+| Setback (rear) | 20 ft |
+| Deck height | 30 in |
+| Guardrail height | 38 in |
+| Gap between pickets | 3.25 inches |
+| Riser height | 6.75" |
+| Stair tread | 11 in |
+| Risers | 2 |
+| Stair handrail | No |
+| Joist spacing | approx. 12 inches |
+| Footing depth | 18 inches |
+| Ledger attachment | lag screws |

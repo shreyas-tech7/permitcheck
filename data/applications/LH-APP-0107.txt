@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0107
+Applicant: Sam Okafor
+Site address: 515 Thistle Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+The project type is Home addition. The parcel id is LH-9128-601. The owner signed is Yes. The contractor is owner-builder. The value of work is $49,600. The zoning is R-1. The parcel area is 11700 SF. The existing building footprint is 2,400 sq ft. The new floor area is 368 sq ft. The front yard setback is 38'. The side yard setback is 16 feet. The rear setback is 306 in. The addition height is 20 feet. The ceiling is 96 inches. The bedrooms added is 2. The escape window is Provided. The smoke alarm is Yes. The sories is 1. The foundation system is slab.

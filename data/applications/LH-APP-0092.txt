@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0092
+Applicant: Rosa Delgado
+Site address: 750 Copper Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Project type: Rear deck
+Parcel ID: LH-4920-891
+Signed by owner: Signed
+Estimated cost: 117,550 USD
+Zone: R-1
+Existing building footprint: 2,900 square feet
+New floor area: 1,100 sq ft
+Front yard setback: 300 in
+Side setback: 9 feet
+Rear yard setback: 20 feet
+Deck height: 32"
+Railing height: 38 inches
+Max opening in guard: 3 1/2 in
+Riser height: 7 3/4 inches
+Min tread: 13 inches
+Risers: 6
+Handrail: No
+Joist spacing (o.c.): 16 in
+Depth of footings: 37 in
+Ledger fastener: lag screws
+Revised deck height: 30 in
+Revised min tread: 11"

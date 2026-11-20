@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0131
+Applicant: Alex Brandt
+Site address: 523 Copper Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The work type is Rear deck. The assessor lot no. is LH-5223-724. The owner signature is Yes. The job cost is $ 32800. The existing rear setback of garage is 4 ft. The zone is R-2. The lot size is 7200 sf. The existing coverage is 1,790 sq ft. The new floor area is 340 sf. The front setbck is 19'. The distance to side lot line is 5 feet. The rear setback is 22 feet. The deck height above grade is 53 in. The guardrail height is 41 inches. The max opening in guard is 3 1/4 in. The max riser is 6.25 in. The tread depth is 10.5 in. The risers is 2. The stair handrail is Not provided. The footing depth below grade is 47 in. The ledger fastener is lag screws. The revised front setbck is 17 ft.

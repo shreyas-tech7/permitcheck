@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0250
+Applicant: Lee Marchetti
+Site address: 894 Thistle Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+The project type is Addition. The apn is LH-8471-647. The owner signed is Yes. The contrctor license is owner-builder. The valuation is $ 83100. The zoning is R-3. The parcel area is 10,700 sq ft. The existing footprint is 2000 SF. The proposed area is 447 SF. The front yard setback is 20.5'. The setback (side) is 9'-6". The rear setback is 25'. The addition height is 21'. The ceiling is 104 in. The bedrooms added is 0. The emergency escape window is Yes. The hardwired smoke alarm is Provided. The floors is 1. The foundation system is slab on grade.

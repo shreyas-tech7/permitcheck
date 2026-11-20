@@ -1,0 +1,115 @@
+{
+ "agreement_with_expected": {
+  "ci95": [
+   0.969393,
+   0.978107
+  ],
+  "k": 5003,
+  "method": "Wilson score, 95%",
+  "n": 5136,
+  "value": 0.974104
+ },
+ "apps_with_any_needs_human": {
+  "ci95": [
+   0.819844,
+   0.897635
+  ],
+  "k": 259,
+  "method": "Wilson score, 95%",
+  "n": 300,
+  "value": 0.863333
+ },
+ "citation_validity": {
+  "cited": 879,
+  "note": "A fixed count over every letter. No sampling error.",
+  "valid": 879,
+  "value": 1.0
+ },
+ "code_sha256": "d4ebfff99e13758530d958d179f83e5143c8c412becde4caacac628b4ff60b4e",
+ "code_version": "2026.1",
+ "data_seed": 20261121,
+ "extractor": "rule-v1",
+ "false_approve_apps": {
+  "ci95": [
+   0.0,
+   0.02787
+  ],
+  "k": 0,
+  "method": "Wilson score, 95%",
+  "n": 134,
+  "value": 0.0
+ },
+ "false_approve_critical_violations": {
+  "ci95": [
+   0.0,
+   0.021847
+  ],
+  "k": 0,
+  "method": "Wilson score, 95%",
+  "n": 172,
+  "value": 0.0
+ },
+ "false_approves": [],
+ "field": {
+  "f1": 0.9702835795551027,
+  "fn": 253,
+  "fp": 97,
+  "precision": 0.9833075202202719,
+  "recall": 0.9576001340707223,
+  "tp": 5714
+ },
+ "model": "none (rule-based, no model)",
+ "n_apps": 300,
+ "needs_human_decisions": {
+  "ci95": [
+   0.110394,
+   0.128104
+  ],
+  "k": 611,
+  "method": "Wilson score, 95%",
+  "n": 5136,
+  "value": 0.118964
+ },
+ "pass_on_any_violation": {
+  "ci95": [
+   0.0,
+   0.012561
+  ],
+  "k": 0,
+  "method": "Wilson score, 95%",
+  "n": 302,
+  "value": 0.0
+ },
+ "run": {
+  "date": "2026-11-20",
+  "ms_per_app": 12.57,
+  "seconds": 3.772
+ },
+ "split": "all",
+ "synthetic": true,
+ "violation": {
+  "fn": 34,
+  "fp": 0,
+  "precision": {
+   "ci95": [
+    0.985868,
+    1.0
+   ],
+   "k": 268,
+   "method": "Wilson score, 95%",
+   "n": 268,
+   "value": 1.0
+  },
+  "recall": {
+   "ci95": [
+    0.846793,
+    0.918308
+   ],
+   "k": 268,
+   "method": "Wilson score, 95%",
+   "n": 302,
+   "value": 0.887417
+  },
+  "tp": 268
+ }
+}

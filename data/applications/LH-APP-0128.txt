@@ -1,0 +1,32 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0128
+Applicant: Morgan Pike
+Site address: 300 Larkspur Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+| Item | Entry |
+| --- | --- |
+| Work type | New deck |
+| Parcel ID | LH-5548-376 |
+| Owner sigature | Yes |
+| Contractr license | owner-builder |
+| Valuation | 91,650 USD |
+| Zoning | R2 |
+| Lot size | 10850 SF |
+| Existing building footprint | 2490 |
+| New floor area | 171 SF |
+| Front yard setback | 19.5 feet |
+| Side yard setback | 12 ft |
+| Rear setback | 20 ft 6 in |
+| Deck height above grade | 13 in |
+| Guard height | 41 inches |
+| Existing rear setback of garage | 2 ft |
+| Max opening in guard | 3.25 in |
+| Riser height | 6 inches |
+| Tread depth | 12" |
+| Risers | 3 |
+| Handrail provided | None |
+| Joist spacing | 12 |
+| Depth of footings | 38 in |
+| Ledger fastener | lag screws |

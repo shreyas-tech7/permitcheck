@@ -1,0 +1,28 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0066
+Applicant: Lee Marchetti
+Site address: 208 Quarry Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Work type: Deck
+Parcel number: LH-5077-896
+Owner signature: Signed
+Builder: LHC-89937
+Estimated cost: $ 53550
+Zone: District R1
+Lot area: 10,700 sq ft
+Existing footprint: 1,640 sq ft
+Proposed area: 151 sf
+Setback (front): 28'
+Side yard setback: 9 ft 6 in
+Rear yard setback: 312 in
+Deck height above grade: 30 in
+Railing height: 40"
+Max opening in guard: 3 1/2 in
+Stair tread: 11 in
+Riser count: 3
+Stair handrail: None
+Joists at: 16 in
+Depth of footings: 48 in
+Ledger attachment: freestanding

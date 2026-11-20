@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0187
+Applicant: Sam Okafor
+Site address: 862 Thistle Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The project type is New deck. The apn is LH-5653-987. The owner sgnature is Signed. The contactor is owner-builder. The value of work is $ 97150. The zning is District C1. The lot size is 10,000 sq ft. The existing footprint is 2500 SF. The proposed area is 1500 sf. The setback (front) is 24 ft. The setback (side) is 8'-6". The setback (rear) is 17 feet. The deck height above grade is 49 in. The railing height is 42". The max opening in guard is 5 3/4 inches. The min tread is 12 in. The number of risers is six. The handrail provided is Yes. The joist spacing (o.c.) is 12 inches. The footings go down is 48 in. The ledger fastener is bolts.

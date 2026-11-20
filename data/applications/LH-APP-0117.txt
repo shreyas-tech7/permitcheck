@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0117
+Applicant: Jordan Vale
+Site address: 663 Millrace Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Project type: New deck
+APN: LH-5629-825
+Owner signed: Signed
+Builder: owner-builder
+Value of work: $23,150
+Zoning district: R-1
+Lot area: 11850 SF
+Existing building footprint: 2,980 sq ft
+Proposed area: 500 SF
+Front setback: 30.5'
+Setback (side): 10.5'
+Setback (rear): 28 ft
+Deck height: 25 in
+Railing height: 3 ft 2 in
+Baluster spacing: 3 in
+Stair riser: 7 1/2 in
+Stair tread: 12 in
+Handrail: Provided
+Joists at: 16 inches
+Existing deck height: 16 in (old deck to be removed)
+Footing depth: 47 in
+Ledger: lag screws

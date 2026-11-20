@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0026
+Applicant: Kenji Ward
+Site address: 205 Wren Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+| Item | Entry |
+| --- | --- |
+| Work type | Deck |
+| Parcel ID | LH-9999-663 |
+| Owner signed | Yes |
+| Contractor | LHC-26105 |
+| Zoning | District R1 |
+| Lot area | 11050 sf |
+| Existing coverage | 1940 sf |
+| Proposed area | 500 sf |
+| Front setack | 37.5' |
+| Distance to side lot line | 10.5 feet |
+| Rear setback | 23.5' |
+| Deck height above grade | 30 inches |
+| Railing height | 41" |
+| Stair riser | 6.5" |
+| Stair tread | 10.5 in |
+| Riser count | six |
+| Stair handrail | Provided |
+| Joist spacing | 16 in |
+| Footings go down | 48 in |
+| Ledger attachment | through bolts |

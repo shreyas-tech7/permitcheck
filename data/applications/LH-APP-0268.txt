@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0268
+Applicant: Kenji Ward
+Site address: 502 Copper Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Work type: Deck
+APN: LH-3208-450
+Owner signature: Yes
+Contractor: LHC-40514
+Estimated cost: $ 64050
+Zoning: District R2
+Existing deck height: 7 in (old deck to be removed)
+Lot area: 6100 SF
+Existing building footprint: 950 SF
+Area of new work: 306 sf
+Front yard setback: 204 in
+Side yard setback: 9 feet
+Rear setback: 21 feet
+Riling height: 41"
+Max opening in guard: 3 1/4 inches
+Riser height: 7 in
+Stair tread: 11.5"
+Riser count: 8
+Handrail: Y
+Joist spacing: 16 in
+Footing depth below grade: 38
+Ledger: bolts

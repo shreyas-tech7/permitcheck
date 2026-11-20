@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0176
+Applicant: Jordan Vale
+Site address: 124 Larkspur Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Work type: New deck
+Parcel number: LH-6744-738
+Signed by owner: Signed
+Contractor license: LHC-55210
+Valuation: 107,900 USD
+Zone: District R2
+Lot area: roughly 5500 sf
+Existing building footprint: 1400 SF
+Front setback: 30'-6"
+Side yard setback: 144 in
+Rear yard setback: approx. 30 ft
+Deck height: 13 in
+Guard height: 39 inches
+Guard opening: 3 1/2 in
+Max riser: 6 1/4 inches
+Stair tread: 11"
+Risers: 7
+Handrail: Provided
+Joists at: 12 in
+Footing depth: 45 in
+Ledger fastenr: lag screws
+Revised valuation: $ 107400

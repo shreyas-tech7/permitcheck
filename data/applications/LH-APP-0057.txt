@@ -1,0 +1,28 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0057
+Applicant: Jordan Vale
+Site address: 476 Fernbank Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Project type: Rear deck
+Parcel ID: LH-2931-755
+Owner signature: Yes
+Contractor license: LHC-54351
+Valuation: 53,950 USD
+Zone: District R3
+Parcel area: 7,900 sq ft
+Existing building footprint: 1480 SF
+New floor area: 447 SF
+Front yard setback: 17 feet
+Setback (side): 11'
+Setback (rear): 14'
+Deck height above grade: 30 inches
+Guardril height: 3'-2"
+Baluster spacing: 3.5 in
+Riser height: 6"
+Tread depth: 10.5"
+Number of risers: 6
+Hadrail provided: Provided
+Depth of footings: 43 in
+Ledger attachment: lag screws

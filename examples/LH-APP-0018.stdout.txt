@@ -1,0 +1,8 @@
+SYNTHETIC DATA ONLY. Larkspur Hollow and its code are fictional. This tool gives no legal advice. Not for production use.
+LH-APP-0018: 3 fail, 2 needs a person, 13 pass (rule-v1, LHRC 2026.1)
+  fail        [R03, LHRC 10.1.3] Who builds: contractor is LHC-288, which is not in the form this section requires
+  fail        [R11, LHRC 12.1.1] Deck size for standard review: new area is 1500 sq ft, and this section requires at most 500 sq ft
+  needs_human [R12, LHRC 12.2.1] Guard height: needs a person: the guard height (guard_height_in) is missing
+  needs_human [R14, LHRC 12.3.1] Stair riser height: needs a person: the stair riser (stair_riser_in) was read with low confidence (0.30)
+  fail        [R18, LHRC 12.4.2] Footing depth: footing depth is 29 in, and this section requires at least 30 in
+wrote examples/LH-APP-0018/checklist.md, letter.md, queue.json and the audit log

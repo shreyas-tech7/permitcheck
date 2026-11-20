@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0294
+Applicant: Chris Abara
+Site address: 355 Copper Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Work type: Rear deck
+APN: LH-5832-854
+Contractor: LHC-34178
+Valuation: $10,500
+Zone: District R1
+Lot size: 9600
+Existing building footprint: 1,900 sq ft
+Proposed area: 500 square feet
+Front setback: 33 ft 6 in
+Side yard setback: 12 feet
+Rear yard setback: 33 ft
+Deck height above grade: 15"
+Guardrail height: 40"
+Baluster spacing: 3.25 in
+Riser height: 6 1/2 inches
+Min tread: 11.5"
+Risers: 2
+Handrail provided: No
+Joist spacing (o.c.): 12 in
+Footing depth below grade: 30 inches
+Ledger: lag screws
+Revised valuation: $ 11000

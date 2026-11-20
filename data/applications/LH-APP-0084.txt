@@ -1,0 +1,31 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0084
+Applicant: Alex Brandt
+Site address: 990 Larkspur Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+| Item | Entry |
+| --- | --- |
+| Work type | New deck |
+| Pacel ID | LH-3412-821 |
+| Owner sgned | Signed |
+| Builder | owner-builder |
+| Value of work | 86,100 USD |
+| Zoning | R-3 |
+| Parcel area | 10,400 |
+| Existing footprint | 1840 SF |
+| New floor area | 154 SF |
+| Setback (front) | 20 ft |
+| Rear yard setback | 14.5 ft |
+| Existing deck height | 16 in | (old deck to be removed)
+| Deck height above grade | 22 inches |
+| Guardrail height | 40 inches |
+| Max opening in guard | 3" |
+| Max riser | 7 1/2 in |
+| Min tread | 11 1/2 inches |
+| Number of risers | 3 |
+| Handrail provided | None |
+| Joist spacig | 12" |
+| Footing depth below grade | 47 inches |
+| Ledger fastener | bolts |

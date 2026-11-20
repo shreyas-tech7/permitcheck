@@ -1,0 +1,24 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0147
+Applicant: Sam Okafor
+Site address: 386 Wren Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Project type: Addition
+Parcel number: LH-2852-483
+Owner signature: Yes
+Estimated cost: 1 USD
+Zoning: R-3
+Lot size: 7150 SF
+Existing building footprint: 1810 SF
+Area of new work: 617 sq ft
+Front setack: 16'
+Side yard setback: 5.5 feet
+Building height: 26'-6"
+Fiished ceiling height: 84 in
+New bedrooms: one
+Egress window: Provided
+Hardwired smoke alarm: Yes
+Floors: two
+Foundation system: crawl space
