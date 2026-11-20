@@ -60,6 +60,8 @@ class LLMExtractor:
                  fixtures: Path | str = FIXTURES, endpoint: str = ENDPOINT):
         if mode not in ("replay", "record"):
             raise ValueError(mode)
+        if not endpoint.startswith("https://"):
+            raise ValueError("the provider endpoint must use https")
         self.code = code or load_code()
         self.mode, self.model, self.endpoint = mode, model, endpoint
         self.fixtures = Path(fixtures)
@@ -83,7 +85,7 @@ class LLMExtractor:
                            "messages": [{"role": "user", "content": prompt}]}).encode()
         wait = 2.0
         for _ in range(5):
-            req = urllib.request.Request(self.endpoint, data=body, method="POST", headers={
+            req = urllib.request.Request(self.endpoint, data=body, method="POST", headers={  # noqa: S310 (https only)
                 "Authorization": f"Bearer {key}", "Content-Type": "application/json"})
             try:
                 with urllib.request.urlopen(req, timeout=30) as resp:  # noqa: S310 (fixed https endpoint)

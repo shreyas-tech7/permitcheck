@@ -499,10 +499,10 @@ def generate(seed: int, n: int, out: Path | str, code: dict | None = None) -> li
     out = Path(out)
     (out / "applications").mkdir(parents=True, exist_ok=True)
     (out / "answer_keys").mkdir(parents=True, exist_ok=True)
-    rng = random.Random(seed)
+    rng = random.Random(seed)  # noqa: S311 (seeded synthetic data, not security)
     ids = [f"LH-APP-{i:04d}" for i in range(1, n + 1)]
     order = ids[:]
-    random.Random(seed + 1).shuffle(order)
+    random.Random(seed + 1).shuffle(order)  # noqa: S311 (seeded split)
     n_dev = n * 2 // 3
     split = {"seed": seed, "dev": sorted(order[:n_dev]), "heldout": sorted(order[n_dev:])}
     which = {a: "dev" for a in split["dev"]} | {a: "heldout" for a in split["heldout"]}

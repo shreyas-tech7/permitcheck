@@ -182,7 +182,7 @@
    ".venv/bin/python scripts/check_links.py",
    "$HOME/go/bin/actionlint"
   ],
-  "passes": false
+  "passes": true
  },
  {
   "id": "F21",
@@ -191,7 +191,7 @@
   "steps": [
    ".venv/bin/python -m pytest -q tests/test_repo_quality.py -k study"
   ],
-  "passes": false
+  "passes": true
  },
  {
   "id": "F22",
@@ -200,6 +200,6 @@
   "steps": [
    ".venv/bin/python -m pytest -q tests/test_repo_quality.py -k release"
   ],
-  "passes": false
+  "passes": true
  }
 ]

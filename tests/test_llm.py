@@ -108,3 +108,8 @@ def test_record_without_a_key_is_blocked_before_any_network(tmp_path, monkeypatc
 def test_prompt_tells_the_model_not_to_judge():
     p = LLMExtractor(CODE).prompt(TEXT)
     assert "Do not judge" in p and "stair_riser_in" in p and TEXT in p
+
+
+def test_record_endpoint_must_be_https():
+    with pytest.raises(ValueError):
+        LLMExtractor(mode="record", endpoint="file:///etc/passwd")

@@ -62,6 +62,13 @@ def cmd_check(a) -> int:
     return 0
 
 
+def _show(path: Path) -> str:
+    try:
+        return str(path.resolve().relative_to(Path.cwd().resolve()))
+    except ValueError:
+        return str(path)
+
+
 def _strip_run(d: dict) -> dict:
     return {k: v for k, v in d.items() if k not in RUN_KEYS}
 
@@ -89,18 +96,18 @@ def cmd_eval(a) -> int:
               f"citations valid {res['citation_validity']['valid']}/{res['citation_validity']['cited']}")
         if a.check:
             if not path.exists():
-                print(f"MISSING {path}")
+                print(f"MISSING {_show(path)}")
                 bad += 1
                 continue
             old = json.loads(path.read_text())
             if _strip_run(old) != _strip_run(json.loads(json.dumps(res))):
-                print(f"DRIFT {path}: a fresh run does not match the committed results")
+                print(f"DRIFT {_show(path)}: a fresh run does not match the committed results")
                 bad += 1
             else:
-                print(f"ok {path} matches a fresh run")
+                print(f"ok {_show(path)} matches a fresh run")
         else:
             path.write_text(json.dumps(res, indent=1, sort_keys=True) + "\n", encoding="utf-8")
-            print(f"wrote {path}")
+            print(f"wrote {_show(path)}")
     return 1 if bad else 0
 
 

@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  push:
+    paths-ignore:
+      - "docs/**"
+      - "**.md"
+  pull_request:
+    paths-ignore:
+      - "docs/**"
+      - "**.md"
+  workflow_dispatch:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install uv
+        run: python -m pip install uv
+      - name: init.sh (install, lint, all tests offline)
+        run: ./init.sh
+      - name: Results match a fresh eval run
+        run: .venv/bin/permitcheck eval --split both --check
+      - name: README tables match the results files
+        run: .venv/bin/permitcheck readme --check
+      - name: Zero false approves on the held-out set
+        run: .venv/bin/python scripts/assert_zero_false_approve.py results/eval_heldout_rule.json
+      - name: Links
+        run: .venv/bin/python scripts/check_links.py
