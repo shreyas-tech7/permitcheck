@@ -43,7 +43,7 @@
     "steps": [
       ".venv/bin/python -m pytest -q tests/test_extract.py"
     ],
-    "passes": false
+    "passes": true
   },
   {
     "id": "F06",
