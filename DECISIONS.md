@@ -1,0 +1,14 @@
+# Decisions
+
+One line per choice: what was weighed and why.
+
+- 2026-11-20 Name: `permitcheck`. PyPI `permitcheck` 404 and npm `permitcheck` 404 on 2026-11-20. `plancheck` is taken on npm (200). Kept the repo name.
+- 2026-11-20 Base branch: origin was empty, so `claude/build-permitcheck` starts from the backup remote's `main` (one README commit). Other option was an orphan branch. Shared history keeps the PR simple.
+- 2026-11-20 City: Larkspur Hollow, fictional. Code: Larkspur Hollow Residential Code (LHRC) version 2026.1, 25 rules written from scratch. Numbers chosen to differ from any real model code where possible.
+- 2026-11-20 Critical rules: 14 of 25 (setbacks, coverage, height, guards, risers, joists, footings, ledger, escape window, smoke alarm). Paperwork and size-path rules are non-critical.
+- 2026-11-20 A conditional rule whose condition is false passes with the reason "not required". Options were pass or a fourth status. A fourth status would complicate every metric.
+- 2026-11-20 Confidence threshold 0.8. Anything below goes to needs_human. A clean value with a near-miss label scores 0.85, so typos in labels still pass through.
+- 2026-11-20 The answer key logic lives in the generator, written separately from the checker, so the eval can catch a checker bug.
+- 2026-11-20 Field F1 counts every extracted value at any confidence. It measures reading. The decision metrics measure deciding.
+- 2026-11-20 Stdlib only. The social preview uses a stdlib PNG encoder, not Pillow.
+- 2026-11-20 Skills: ponytail, caveman, humanizer and find-skills could not be installed (the permission system refused `npx skills add`). Their rules are applied by hand.
