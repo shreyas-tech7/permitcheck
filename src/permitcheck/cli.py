@@ -41,6 +41,9 @@ def cmd_check(a) -> int:
     code = load_code()
     x = make_extractor(a.extractor, code)
     path = Path(a.application)
+    if not path.is_file():
+        print(f"error: no application file at {path}")
+        return 2
     text = path.read_text(encoding="utf-8")
     app_id = a.app_id or path.stem
     fields = x.extract(text)

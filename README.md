@@ -113,7 +113,7 @@ To try the LLM extractor live, put a free Groq key in `.env` as `GROQ_API_KEY` a
 - **False approve:** an application with at least one seeded critical violation that the tool marks as pass on that rule.
 - **Needs-human:** the result when the tool cannot decide. A person reviews it.
 - **Answer key:** the hidden truth for each synthetic application, written by the generator.
-- **Held-out set:** applications set aside before any tuning and scored once at the end.
+- **Held-out set:** applications set aside before any tuning. The tool was frozen before they were scored. `DECISIONS.md` logs the order.
 - **Wilson interval:** a 95% range for a rate measured on a small sample. It stays useful when the count is zero.
 - **Grounding check:** a test that the quote the model gives appears in the application and parses to the same value.
 - **Replay mode:** the LLM extractor reads saved responses instead of calling a provider, so tests run offline.

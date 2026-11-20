@@ -59,3 +59,9 @@ def test_every_written_output_carries_the_disclaimer(tmp_path):
     assert DISCLAIMER in (d / "letter.md").read_text()
     assert json.loads((d / "queue.json").read_text())["disclaimer"] == DISCLAIMER
     assert all(json.loads(line)["synthetic"] for line in (d / "audit.jsonl").read_text().splitlines())
+
+
+def test_missing_application_gives_a_clear_error(tmp_path, capsys):
+    assert main(["check", str(tmp_path / "nope.txt")]) == 2
+    out = capsys.readouterr().out
+    assert out.splitlines()[0] == DISCLAIMER and "no application file" in out

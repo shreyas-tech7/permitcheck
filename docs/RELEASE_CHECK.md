@@ -11,7 +11,7 @@ The checks from section 11 of the build prompt, run on 2026-11-20 on branch `cla
 | Workflows | `actionlint` | clean |
 | Links | `scripts/check_links.py` | no broken relative links. External links are listed as "not checked". |
 | Writing rules | `tests/test_repo_quality.py` and a manual humanizer pass | see below |
-| Outside check | one subagent cloned the repo to `/tmp/outside-check` and checked every Done-means item | OUTSIDE_CHECK_PENDING |
+| Outside check | one subagent cloned the repo to `/tmp/outside-check` and checked every Done-means item | six items pass. Item 2 passes for the rule-based extractor and is blocked for the LLM extractor, which the repo says. |
 
 ## Security lint findings
 
@@ -33,4 +33,27 @@ Read `README.md` and every file in `docs/` for passive voice, filler and long se
 
 ## Outside check
 
-OUTSIDE_CHECK_PENDING
+A subagent that did not write the code cloned commit ce7a5ef to `/tmp/outside-check`, ran `./init.sh` and checked each Done-means item with its own commands. It edited nothing.
+
+- Item 1, rule tests: pass. All 25 rules have pass, fail and edge cases, and a coverage test guards it.
+- Item 2, zero false approves: pass for the rule-based extractor (0 of 63 critical violations, 0 of 47 applications on a fresh run). Blocked for the LLM extractor. The checker confirmed that `BLOCKERS.md` and the README say so and that no LLM numbers appear anywhere.
+- Item 3, citations: pass. It noted that citation validity is close to true by construction, because `letter_md` raises before it writes a bad citation. The eval still reads every citation back to prove it.
+- Item 4, README table: pass. It checked the 0 of 63 upper bound of 5.7% by hand.
+- Item 5, disclaimers: pass for every command, every help page and every output file.
+- Item 6, offline tests: pass with the proxy variables unset.
+- Item 7, quality bar: pass, except the expected placeholder in this file, which this section replaces.
+- README numbers: it spot-checked dev, held-out, second-seed and timing numbers against `results/`. All matched.
+
+Fixed after the outside check:
+
+- `scripts/assert_zero_false_approve.py` crashed with no argument. It now defaults to `results/eval_heldout_rule.json`.
+- `test_rule_fail` had an assertion that could never fail. It now checks the section and that the reason is a real fail reason.
+- `permitcheck check` on a missing file printed a traceback. It now prints a clear error and exits with code 2, with a test.
+- The README glossary said the held-out set was scored once at the end, which a reader cannot verify. It now says the tool was frozen first and points to `DECISIONS.md`.
+
+Logged, not changed:
+
+- CI skips pushes that change only docs, as the build prompt asks. A push that changes only `docs/RELEASE_CHECK.md` will not run CI, although a test reads that file. Every code push runs that test.
+- The Archistar claim in Related work comes from Archistar's own site, as the brief cites it. The README says "says that".
+
+Also found during the release check, before the outside check: a garbled digit in an upper-case scan line could drop out and leave a smaller clean number. It is fixed and logged in `BLOCKERS.md`.

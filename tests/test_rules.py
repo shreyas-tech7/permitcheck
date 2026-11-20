@@ -76,7 +76,8 @@ def test_rule_fail(rid):
     base, _, bad, _, _ = CASES[rid]
     r = run(rid, base, bad)
     assert r.status == "fail", r.reason
-    assert r.section in r.reason or r.reason
+    assert r.section == CODE["by_id"][rid]["section"]
+    assert r.reason and not r.reason.startswith("needs a person")
 
 
 @pytest.mark.parametrize("rid", sorted(CASES))

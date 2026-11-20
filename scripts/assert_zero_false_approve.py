@@ -1,5 +1,5 @@
 """Exit 0 only if a results file shows zero false approves on seeded critical violations.
-Run: .venv/bin/python scripts/assert_zero_false_approve.py results/eval_heldout_rule.json"""
+Run: .venv/bin/python scripts/assert_zero_false_approve.py [results file, default results/eval_heldout_rule.json]"""
 
 import json
 import sys
@@ -20,4 +20,4 @@ def main(path: str) -> int:
 
 
 if __name__ == "__main__":
-    sys.exit(main(sys.argv[1]))
+    sys.exit(main(sys.argv[1] if len(sys.argv) > 1 else "results/eval_heldout_rule.json"))
