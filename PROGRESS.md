@@ -2,11 +2,12 @@
 
 ## Done
 
-- F01 initializer, F02 code file, F03 generator (300 apps, seed 20261120), F04 split (200 dev, 100 held out, fixed before tuning).
+- F01 to F15: initializer, code file, generator and split, rule extractor, checker (all 25 rules), needs-human path, checklist, letter with citation checks, queue, audit log, eval with Wilson intervals, zero false approves on held-out for the rule extractor.
 
 ## Next
 
-- F05 rule-based extractor.
+- F16 LLM extractor in replay mode. F17 record run (blocked: hosts unreachable, no key).
+- F18 disclaimers test, F19 README, F20 repo files, F21 study kit, F22 release and hand-off.
 
 ## Open blockers
 
@@ -14,4 +15,4 @@
 
 ## Last ./init.sh
 
-2026-11-20: lint clean, 24 passed.
+2026-11-20: lint clean, all tests pass.

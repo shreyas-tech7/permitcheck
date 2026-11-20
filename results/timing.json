@@ -1,0 +1,12 @@
+{
+ "date": "2026-11-20",
+ "cpu": "Intel(R) Xeon(R) Processor @ 2.10GHz",
+ "cores_used": 2,
+ "python": "3.13.18",
+ "n_apps": 300,
+ "best_of_3_seconds": 3.593,
+ "ms_per_app": 11.98,
+ "model_calls": 0,
+ "cost_usd": 0.0,
+ "note": "Rule-based extractor, checker and all three writers. No network and no model."
+}
