@@ -4,6 +4,8 @@
 
 Every feature in `feature_list.json` except F17. The rule-based extractor makes zero false approves on the held-out set (`results/eval_heldout_rule.json`). The README tables come from the results files. The release check is in `docs/RELEASE_CHECK.md`.
 
+Release commit: 8fb00cfa50f4861f80a58c9e8b4249b8c2dfb374. The commits after it only record this SHA and the hand-off notes.
+
 ## Not done
 
 - F17: the live LLM record run. It needs a free Groq key. See `docs/HUMAN_STEPS.md`, step 6.

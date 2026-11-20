@@ -2,7 +2,7 @@
 
 Steps that only Shreyas can do, in order. While Shreyas was away, Claude was allowed to open and merge the pull request, create the pre-release and set the About box and topics. Check each of those on GitHub before you redo it.
 
-Release commit: this commit (the commit right after it records its full SHA here)
+Release commit: 8fb00cfa50f4861f80a58c9e8b4249b8c2dfb374
 
 The commits after the release commit only record this SHA and the hand-off notes. Tag the release commit.
 
@@ -24,11 +24,11 @@ Open the Actions tab. The `CI` workflow should run on `claude/build-permitcheck`
 
 ```bash
 git fetch origin
-git tag -a v0.1.0-rc1 RELEASE_SHA -m "Release candidate 1"
+git tag -a v0.1.0-rc1 8fb00cfa50f4861f80a58c9e8b4249b8c2dfb374 -m "Release candidate 1"
 git push origin v0.1.0-rc1
 ```
 
-Or create a pre-release with that tag on GitHub. Replace `RELEASE_SHA` with the release commit SHA at the top of this file.
+Or create a pre-release with that tag on GitHub.
 
 ## 5. Run the secret scan once more
 

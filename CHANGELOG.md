@@ -2,9 +2,9 @@
 
 All notable changes to this project are listed here.
 
-## v0.1.0-rc1 (release candidate, not yet tagged)
+## v0.1.0-rc1 (2026-11-20, release candidate, not yet tagged)
 
-Release commit: this commit (the commit right after it records its full SHA here)
+Release commit: 8fb00cfa50f4861f80a58c9e8b4249b8c2dfb374
 
 ### Added
 
