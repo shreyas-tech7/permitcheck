@@ -3,9 +3,12 @@
 import json
 from pathlib import Path
 
+from .checker import CONFIDENCE_THRESHOLD
+from .codefile import load_code
 from .metrics import wilson
 
-BLOCKS = ("results", "cost")
+BLOCKS = ("facts", "results", "cost")
+DATA = Path(__file__).resolve().parents[2] / "data"
 
 
 def _pct(x) -> str:
@@ -63,6 +66,19 @@ def cost_block(results: Path) -> str:
             f"Python {t['python']}, {t['date']}, from `results/timing.json`).\n")
 
 
+def facts_block(data: Path = DATA, code: dict | None = None) -> str:
+    code = code or load_code()
+    meta = json.loads((data / "meta.json").read_text())
+    split = json.loads((data / "split.json").read_text())
+    crit = [r["id"] for r in code["rules"] if r["critical"]]
+    return (f"\n- City code: {code['code_name']} ({code['short_name']}) version {code['version']}, "
+            f"{len(code['rules'])} rules, {len(crit)} of them critical ({', '.join(crit)}).\n"
+            f"- Applications: {meta['n']} synthetic applications from seed {meta['seed']}, split into "
+            f"{len(split['dev'])} dev and {len(split['heldout'])} held-out before any tuning.\n"
+            f"- Confidence threshold: a field read below {CONFIDENCE_THRESHOLD} confidence sends its rule to a "
+            "person.\n")
+
+
 def _replace(text: str, name: str, body: str) -> str:
     start, end = f"<!-- {name}:start -->", f"<!-- {name}:end -->"
     a, b = text.index(start) + len(start), text.index(end)
@@ -71,7 +87,8 @@ def _replace(text: str, name: str, body: str) -> str:
 
 def render(readme: Path, results: Path, check: bool = False) -> int:
     text = readme.read_text(encoding="utf-8")
-    new = _replace(_replace(text, "results", results_block(results)), "cost", cost_block(results))
+    new = _replace(text, "facts", facts_block())
+    new = _replace(_replace(new, "results", results_block(results)), "cost", cost_block(results))
     if check:
         if new != text:
             print("README tables differ from the results files. Run: permitcheck readme")
