@@ -1,0 +1,32 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0192
+Applicant: Alex Brandt
+Site address: 188 Wren Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+| Item | Entry |
+| --- | --- |
+| Type of work | Deck |
+| Existing deck height | 9 in | (old deck to be removed)
+| Parcel ID | LH-2372-466 |
+| Owner signed | Yes |
+| Contractor | owner-builder |
+| Valuation | 0 USD |
+| Zoning district | R3 |
+| Lot size | 5,550 sq ft |
+| Existing footprint | 980 square feet |
+| Area of new work | 122 SF |
+| Front yard setback | 20 feet |
+| Side setback | 9 ft |
+| Setback (rear) | 17'-6" |
+| Deck height | 19 inches |
+| Guard height | 3'-6" |
+| Baluster spacing | 3.5 inches |
+| Max riser | 6 3/4 in |
+| Tread depth | 9" |
+| Riser count | 4 |
+| Handrail provided | Yes |
+| Joist spacing | 19.2 in |
+| Depth of footings | 47 inches |
+| Ledger attachment | through bolts |

@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0009
+Applicant: Chris Abara
+Site address: 471 Orchard Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The work type is New deck. The parcel id is LH-1522-151. The owner signature is Signed. The contractor is owner-builder. The valuaton is $101,900. The zoning district is R-2. The lot size is 6,550 square feet. The existing coverage is 1,180 square feet. The area of new work is 122 square feet. The front yard setback is 29.5 feet. The rear yard setback is approx. 9'. The deck height above grade is 2'-0". The railing height is 3'-4". The baluster spacing is 5". The max riser is 6 1/4 inches. The stair tread is 10.5". The rser count is 2. The handrail provided is No. The joists at is 12 in. The footing depth is 30 inches. The ledger attachment is lag screws.

@@ -1,0 +1,32 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0170
+Applicant: Kenji Ward
+Site address: 782 Quarry Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+| Item | Entry |
+| --- | --- |
+| Work type | Deck |
+| Parcel ID | LH-8874-596 |
+| Signed by owner | Yes |
+| Builder | owner-builder |
+| Valuation | 23,900 USD |
+| Zoning | District R1 |
+| Lot size | 9,400 square feet |
+| Existing building footprint | 1,440 sq ft |
+| Area of new work | 317 square feet |
+| Setback (front) | 300 in |
+| Side yard setback | 9' |
+| Setback (rear) | 26.5 feet |
+| Deck height | 13 inches |
+| Guard height | 41 inches |
+| Guard opening | 3 1/2 in |
+| Max riser | 7 inches |
+| Min tread | 11.5 inches |
+| Rser count | 4 |
+| Joist spacing | 12 in |
+| Footing depth below grade | 3'-7" |
+| Ledger fastener | nails |
+| Revised area of new work | 377 sf |
+| Revised rser count | 2 |

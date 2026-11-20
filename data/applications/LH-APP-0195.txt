@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0195
+Applicant: Kenji Ward
+Site address: 946 Wren Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Type of work: Home addition
+Parcel number: LH-2802-671
+Owner signature: Signed
+Builder: owner-builder
+Value of work: $78,400
+Zoning district: R1
+Parcel area: 10000 SF
+Existing footprint: 2500 sf
+Setback (front): 36.5'
+Side yard seback: 15 feet
+Rear yard setback: 22'-6"
+Building height: 24 ft 6 in
+Finished ceiling height: 8 ft 11 in
+New bedrooms: three
+Escape window: Provided
+Hardwired smoke alarm: Provided
+Floors: 1
+Foundation system: crawl space
+Revised value of work: 77,900 USD

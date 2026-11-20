@@ -1,0 +1,28 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0299
+Applicant: Chris Abara
+Site address: 818 Thistle Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+| Item | Entry |
+| --- | --- |
+| Work type | Room addition |
+| Parcel ID | LH-8471-984 |
+| Owner signed | Signed |
+| Conractor license | owner-builder |
+| Value of work | $ 26400 |
+| Zoning district | R1 |
+| Parcel area | 10600 sf |
+| Existing footprint | 2,600 square feet |
+| Area of new work | 1,882 square feet |
+| Setback (front) | 36 ft 6 in |
+| Setback (side) | 6 ft 6 in |
+| Rear yard setback | 30.5' |
+| Building height | 22.5 ft |
+| Finished ceiling height | 84 in |
+| Number of new bedrooms | 1 |
+| Emergeny escape window | Y |
+| Hardwired smoke alarm | Yes |
+| Floors | 1 |
+| Foundation type | slab |

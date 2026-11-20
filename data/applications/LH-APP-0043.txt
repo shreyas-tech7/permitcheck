@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0043
+Applicant: Morgan Pike
+Site address: 945 Larkspur Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The work type is Deck. The apn is LH-9771-656. The owner signed is Yes. The builder is owner-builder. The estimated cost is 500 USD. The zoning is R3. The parcel area is 9,000 sq ft. The existing footprint is 2120 sf. The new floor area is 277 sq ft. The setback (front) is 27'-6". The distance to side lot line is 11'-6". The rear setback is 8 feet. The deck height above grade is 40 in. The guard height is 41 in. The existing deck height is 7 in. (old deck to be removed) The max opening in guard is 3 1/4 inches. The max riser is 6.25". The stair tread is 11 1/2 inches. The risers is 5. The handrail provided is Provided. The joist spacing (o.c.) is 16". The footing depth is 44 in. The ledger fastener is nails. The revised estimated cost is $ 0.

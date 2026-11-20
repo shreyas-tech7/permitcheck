@@ -1,0 +1,25 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0198
+Applicant: Sam Okafor
+Site address: 280 Larkspur Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Project type: Home addition
+Parcel ID: LH-9438-872
+Signed by owner: Yes
+Contractor license: owner-builder
+Valuation: $ 14600
+Parcel area: 8000 SF
+Existing coverage: 1210 SF
+New floor area: 599 sf
+Front yard setback: 16'
+Setback (side): 5 ft 6 in
+Rear yard setback: 12 ft
+Addition height: 27'
+Ceilng height: 84 inches
+New bedooms: 2
+Emergency escape window: Y
+Smoke alarm: Yes
+Number of stories: one
+Foundation system: basement

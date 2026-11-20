@@ -1,0 +1,30 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0108
+Applicant: Alex Brandt
+Site address: 469 Fernbank Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+| Item | Entry |
+| --- | --- |
+| Work type | Deck |
+| APN | LH-6241-959 |
+| Owner signed | Signed |
+| Contractor | LHC-95881 |
+| Value of work | $23,650 |
+| Zone | District R3 |
+| Lot area | 8150 sf |
+| Proposed area | 205 sf |
+| Front setback | 22 ft |
+| Side yard seback | 8 ft 6 in |
+| Rear yard setback | 15' |
+| Deck height | 50 in |
+| Guardrail height | 41 inches |
+| Baluster spacing | 3 1/4 inches |
+| Riser height | 8.25" |
+| Stair tread | 11 in |
+| Risers | 6 |
+| Handrail | Provided |
+| Joist spacing (o.c.) | 24 inches |
+| Footings go down | 25 in |
+| Ledger attachment | bolts |

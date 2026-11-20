@@ -1,0 +1,22 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0106
+Applicant: Rosa Delgado
+Site address: 650 Copper Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Type of work: Room addition
+Parcel number: LH-6522-393
+Estimated cost: $ 22300
+Zoning district: R-2
+Lot size: 10950 SF
+New floor area: 207 square feet
+Front yard setback: 252 in
+Setback (side): 13'
+Rear setback: 22.5 ft
+Addition height: 20.5'
+Ceiling height: 99"
+New bedrooms: 0
+Smoke alarm: Y
+Number of stories: one
+Revised estimated cost: $22,800

@@ -1,0 +1,28 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0177
+Applicant: Rosa Delgado
+Site address: 956 Wren Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+| Item | Entry |
+| --- | --- |
+| Work type | Room addition |
+| Parcel number | LH-6104-339 |
+| Owner signature | Yes |
+| Contractor | LHC-47071 |
+| Value of work | $ 7350 |
+| Zoning district | District R1 |
+| Lot area | 10550 sf |
+| Existing building footprint | 2170 SF |
+| Proposed area | 586 square feet |
+| Front yard setback | 37 feet |
+| Setback (side) | 5'-6" |
+| Rear setback | 29.5 ft |
+| Height of addition | 24'-6" |
+| Ceiling | 104 |
+| New bedrooms | 2 |
+| Egress window | Provided |
+| Hardwired smoke alarm | Y |
+| Number of stories | 1 |
+| Foundation type | concrete piers |

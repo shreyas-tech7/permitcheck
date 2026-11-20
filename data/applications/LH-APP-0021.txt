@@ -1,0 +1,24 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0021
+Applicant: Dana Ilves
+Site address: 476 Larkspur Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Project type: Room addition
+Owner signed: Signed
+Contractor: owner-builder
+Zone: C-1
+Lot area: 5050 SF
+Existing footprint: 880 SF
+Proposed area: 201 sq ft
+Front seback: 27'-6"
+Side setback: 8 feet
+Rear setback: 10'
+Building height: 26 ft 6 in
+Finihed ceiling height: 90 inches
+Bedrooms added: 1
+Emergency escape window: Provided
+Hardwired smoke alarm: Y
+Stories: 2
+Foundation: basement

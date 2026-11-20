@@ -1,0 +1,25 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0008
+Applicant: Kenji Ward
+Site address: 884 Fernbank Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Type of work: Addition
+Parcel ID: LH-6802-853
+Signed by owner: Signed
+Builder: LHC-80611
+Valuation: 88,750 USD
+Zoning: R-1
+Lot size: 11550 SF
+Existing coverage: 2,800 sq ft
+Proposed area: 721 SF
+Side setback: 15'
+Rear yard setback: 30.5 ft
+Building height: 28'
+Ceiling height: 107 inches
+Bedrooms added: 1
+Emergency escape window: Yes
+Hardwired smoke alarm: Y
+Storis: 1
+Foundation: basement

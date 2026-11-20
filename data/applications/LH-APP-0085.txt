@@ -1,0 +1,28 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0085
+Applicant: Rosa Delgado
+Site address: 716 Orchard Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Project type: Rear deck
+Parcl number: LH-5051-342
+Owner signature: Signed
+Contractor license: LHC-97800
+Estimated cost: $ 28650
+Zoning: R-2
+Lot size: 6350 sf
+Existing footprint: 1,290 sq ft
+New floor area: 379 square feet
+Front setback: 26 feet
+Setback (side): 10'-6"
+Rear setback: 21 feet
+Walking surface height: 3'-3"
+Guardrail height: 31 inches
+Guard opening: 3.5 in
+Riser height: 6 3/4 inches
+Stair tread: 10.5 inches
+Risers: four
+Joist spacing (o.c.): 16 inches
+Footing depth: 2'-11"
+Ledger fastener: lag screws

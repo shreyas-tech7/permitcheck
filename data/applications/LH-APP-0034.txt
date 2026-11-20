@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0034
+Applicant: Rosa Delgado
+Site address: 56 Wren Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+| Item | Entry |
+| --- | --- |
+| Project type | Deck |
+| Parcel number | LH-4483-498 |
+| Owner signature | Yes |
+| Contractor license | owner-builder |
+| Value of work | $ 28350 |
+| Zoning district | District R1 |
+| Parcel area | 11900 SF |
+| Existing footprint | 2,710 square feet |
+| Area of new work | 392 square feet |
+| Front setback | 29'-6" |
+| Setback (side) | 8 ft |
+| Rear setback | 26 ft 6 in |
+| Deck height | approx. 22" |
+| Star riser | approx. 6 3/4 inches |
+| Tread depth | 11" |
+| Risers | 5 |
+| Handrail provided | Provided |
+| Joist spacing | 16" |
+| Footing depth | 31 inches |
+| Ledger fastener | none, freestanding deck |

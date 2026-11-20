@@ -1,0 +1,27 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0292
+Applicant: Dana Ilves
+Site address: 451 Copper Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+| Item | Entry |
+| --- | --- |
+| Work type | Rear deck |
+| Parcel number | LH-5899-411 |
+| Owner signature | Yes |
+| Contractor license | LHC-96469 |
+| Estimated cost | 45,050 USD |
+| Zone | District R3 |
+| Lot size | 11,350 square feet |
+| Existing coverage | 2,850 square feet |
+| Proposed area | 268 square feet |
+| Side yard setback | 8' |
+| Rear yard setback | 6' |
+| Guardrail height | 41 |
+| Max opening in guard | 3.5" |
+| Riser height | 7 inches |
+| Riser count | 7 |
+| Stair handrail | No |
+| Joist spacing (o.c.) | 24 in |
+| Ledger | through bolts |

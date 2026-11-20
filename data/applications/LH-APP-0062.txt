@@ -1,0 +1,25 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0062
+Applicant: Jordan Vale
+Site address: 394 Millrace Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Project type: Addition
+Parcel ID: LH-9766-900
+Signed by owner: Yes
+Contractor: owner-builder
+Value of work: $1
+Zone: R3
+Lot size: 10950 SF
+Area of new work: 564 square feet
+Front yard setback: 19 feet
+Side yard setback: 12 feet
+Setback (rear): 22 ft 6 in
+Height of addition: 15 ft
+Ceiling: 91 in
+Bedrooms added: 1
+Escape window: Y
+Smoke detector: Y
+Floors: 1
+Foundation: crawl space

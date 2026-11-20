@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0093
+Applicant: Sam Okafor
+Site address: 389 Thistle Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Project type: Deck
+Parcel number: LH-4307-977
+Owner signature: Signed
+Contractor: LHC-72764
+Value of work: $ 27500
+Zoning: R1
+Parcel area: 5250 sf
+Existing footprint: 1070 sf
+New floor area: 230 SF
+Front stback: 474 in
+Side yard setback: 186 in
+Rear setback: 26.5'
+Deck height above grade: 12"
+Guardrail height: 41 inches
+Baluster spacing: 3.5"
+Max riser: 8 in
+Min tread: 10 inches
+Risers: 6
+Stair handrail: Provided
+Depth of footings: 3'-0"
+Ledger attachment: through bolts
+Revised min tread: 12"

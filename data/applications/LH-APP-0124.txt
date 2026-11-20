@@ -1,0 +1,28 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0124
+Applicant: Alex Brandt
+Site address: 942 Copper Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Project type: Deck
+APN: LH-5791-997
+Owner signature: Signed
+Contractor: LHC-72263
+Value of work: 114,600 USD
+Zoning: R-2
+Lot size: 11,550
+Existing coverage: 1,940 sq ft
+Proposed area: 394 square feet
+Front setback: 312 in
+Side yard setback: 168 in
+Rear yard setback: 18 feet
+Existing deck height: 7 in (old deck to be removed)
+Deck height: 24 in
+Stair riser: 6 1/4 inches
+Stair tread: 11.5 inches
+Riser count: 4
+Handrail: Provided
+Joists at: 12 in
+Footing depth below grade: 27 inches
+Ledger: bolts

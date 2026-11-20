@@ -1,0 +1,25 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0064
+Applicant: Dana Ilves
+Site address: 36 Orchard Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Work type: Home addition
+APN: LH-1920-294
+Owner signed: Signed
+Cntractor: owner-builder
+Valuation: $104,500
+Zone: R-1
+Prcel area: 8450
+Area of new work: 679 sq ft
+Front setback: 39'
+Side yard setback: 162 in
+Setback (rear): 26 feet
+Building height: 34'-6"
+Ceiling height: 100 inches
+New bedrooms: 1
+Egress window: Provided
+Smoke alarm: No
+Stories: 2
+Foundation type: slab

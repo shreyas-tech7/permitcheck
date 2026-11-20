@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0210
+Applicant: Morgan Pike
+Site address: 36 Orchard Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Work type: Deck
+Parcel number: LH-3765-345
+Signed by owner: Yes
+Contractor: LHC-87794
+Valuation: $ 30350
+Zoning district: R3
+Lot area: 8,000 sq ft
+Existing coverage: 1,350 sq ft
+Area of new work: 312 sq ft
+Side yard setback: 9 feet
+Rear yard setback: 17.5'
+Walking surface height: 13"
+Max riser: 6.5 in
+Tread depth: 10.5"
+Risers: 7
+Stair handrail: Yes
+Joist spacing (o.c.): 16"
+Footing depth below grade: 45"
+Ledger: lag screws

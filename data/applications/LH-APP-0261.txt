@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0261
+Applicant: Rosa Delgado
+Site address: 80 Copper Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Project type: Addition
+Parcel ID: LH-2458-527
+Owner signature: Signed
+Contractor: LHC-71519
+Estimated cost: 1 USD
+Zoning district: R3
+Parcel area: 8,800 square feet
+Existing building footprint: 1640 sf
+Area of new work: 288 square feet
+Front yard setback: 180 in
+Side yard setback: 9.5 ft
+Rear yard setback: 11.5 ft
+Building height: 24 ft
+Finished ceiling height: 7 ft 1 in
+New bedrooms: 3
+Emergency escape window: Provided
+Hardwired smoke alarm: Provided
+Number of stories: 1
+Foundation system: slab on grade

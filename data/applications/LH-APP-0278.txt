@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0278
+Applicant: Jordan Vale
+Site address: 890 Wren Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Type of work: New deck
+APN: LH-8193-295
+Signed by owner: Yes
+Value of work: $57,500
+Zoning district: District R3
+New floor area: 2000 SF
+Front setback: 20 ft
+Setback (side): 7 ft 6 in
+Rear yard setback: 21'
+Deck height: 14 in
+Guard height: 39 inches
+Guard opening: 3"
+Riser height: 7 1/2 in
+Min tread: 11 inches
+Risers: 7
+Handrail provided: Yes
+Joist spacing (o.c.): 12"
+Footing depth: 32"
+Ledger attachment: freestanding

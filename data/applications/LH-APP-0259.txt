@@ -1,0 +1,28 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0259
+Applicant: Sam Okafor
+Site address: 45 Fernbank Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+| Item | Entry |
+| --- | --- |
+| Project type | Addition |
+| Parcel number | LH-9375-244 |
+| Signed by owner | Yes |
+| Contractor license | LHC-19977 |
+| Valuation | $ 103100 |
+| Zoning district | District R3 |
+| Parcel area | 7,150 sq ft |
+| Area of new work | 769 square feet |
+| Front setback | 16 ft 6 in |
+| Distance to side lot line | 5 ft |
+| Setback (rear) | 264 in |
+| Height of addition | 20 feet |
+| Finished ceiling height | ~7 ft 3 in |
+| New bedrooms | 0 |
+| Egress window | N |
+| Smoke alarm | Provided |
+| Number of stories | 1 |
+| Foundation system | basement |
+| Revised area of new work | 829 SF |

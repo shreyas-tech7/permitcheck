@@ -1,0 +1,31 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0015
+Applicant: Alex Brandt
+Site address: 276 Thistle Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Work type: Rear deck
+Parcel ID: LH-3772-227
+Owner sined: Signed
+Contractor: LHC-78230
+Valuation: 70,650 USD
+Zoning district: R3
+Lot area: 6,950 square feet
+Existing coverage: 1220 sf
+Area of new work: 119 square feet
+Front yard setback: 15'
+Side setback: ~138 in
+Rear setback: 25 feet
+Deck height: 28"
+Railing height: 3 ft 5 in
+Max opening in guard: 3 1/2 inches
+Existing deck height: 19 in (old deck to be removed)
+Riser height: 7.5"
+Tread depth: 11.5 inches
+Riser count: 8
+Stair handrail: None
+Joist spacing: 16 inches
+Footing depth below grade: 37 inches
+Ledger attachment: lag screws
+Revised area of new work: 179 SF

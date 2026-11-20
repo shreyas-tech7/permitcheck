@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0075
+Applicant: Lee Marchetti
+Site address: 370 Larkspur Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Type of work: Addition
+Parcel number: LH-4368-105
+Owner signed: Yes
+Contractor license: pending
+Valuation: $ 57700
+Zoning district: District R1
+Lot area: 5,300 sq ft
+Existing building footprint: ~1260 SF
+Proposed area: 662 square feet
+Front yard setback: 37 ft 6 in
+Side setback: 6'
+Rear yard setback: 35 feet
+Building height: 13.5 feet
+Ciling height: 93 inches
+Number of new bedrooms: 0
+Egress window: Yes
+Smoke alarm: Y
+Number of stories: one
+Foundation: crawl space

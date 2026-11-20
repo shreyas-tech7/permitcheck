@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0139
+Applicant: Kenji Ward
+Site address: 570 Larkspur Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+The poject type is Home addition. The parcel number is LH-7602-709. The signed by owner is Signed. The builder is owner-builder. The valuation is 26,550 USD. The zoning is District R3. The lot size is 8350 SF. The existing footprint is 2,000 square feet. The area of new work is 559 SF. The front yard setback is 16 feet. The rear yard setback is 13 ft 6 in. The height of addition is 25 ft 6 in. The ceiling is 88". The number of new bedrooms is 1. The emergency escape window is Provided. The smoke alarm is Y. The number of stories is 1.

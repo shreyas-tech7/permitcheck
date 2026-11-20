@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0188
+Applicant: Alex Brandt
+Site address: 604 Orchard Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Type of work: Deck
+Assessor lot no.: LH-6135-816
+Owner signed: Signed
+Builder: owner-builder
+Estimated cost: $97,850
+Zone: R-3
+Lot size: 11,700 sq ft
+Existing footprint: 1800 SF
+Area of new work: 465 sq ft
+Front yard setback: 15'
+Side yard setback: 12.5'
+Rear setback: 24.5'
+Walking surface height: 25 inches
+Guardrail height: 39 in
+Max opning in guard: 3.5"
+Riser height: 7 in
+Min tread: 10 1/2 in
+Riser count: eight
+Handrail: Y
+Jists at: ~12"
+Footing depth below grade: 2'-9"
+Ledger: bolts

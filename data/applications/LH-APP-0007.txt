@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0007
+Applicant: Lee Marchetti
+Site address: 902 Larkspur Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The project type is Deck. The parcel number is LH-4923-861. The owner signature is Signed. The contractor is LHC-36494. The valuation is $99,200. The zoning is District R1. The lot size is 8,100 square feet. The existing fotprint is 1,440 square feet. The proosed area is 343 SF. The front setback is 35'-6". The side yard setback is 8 ft. The setbak (rear) is 25.5'. The walking surface height is 59". The guardrail height is 39". The guard opening is 3 1/4 inches. The max riser is 7 1/2 inches. The tread depth is 11 in. The risers is three. The stair handrail is Yes. The joist spacing is 16 in. The footings go down is 47 inches. The ledger attachment is freestanding.

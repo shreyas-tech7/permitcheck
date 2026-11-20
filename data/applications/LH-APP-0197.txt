@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0197
+Applicant: Sam Okafor
+Site address: 447 Quarry Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The type of work is New deck. The assessor lot no. is LH-2598-245. The owner signature is Signed. The contractor license is LHC-91706. The valuation is $ 40750. The zoning district is R2. The parcel area is 5500 SF. The existing building footprint is 940 sf. The proposed area is 209 square feet. The front setback is 23. The side setback is 13'. The setback (rear) is 24.5'. The deck height above grade is 60". The guard opening is 3 1/4 inches. The stair riser is 7 1/4 inches. The stair tread is 12 in. The riser count is four. The stair handrail is Y. The joist spacing is 12 inches. The footings go down is 34 inches. The ledger is lag screws.

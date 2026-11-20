@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0086
+Applicant: Jordan Vale
+Site address: 709 Millrace Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Project type: Rear deck
+Assessor lot no.: LH-3878-694
+Owner signed: Signed
+Builder: owner-builder
+Valuation: $63,200
+Zoning district: R1
+Lot area: 7,700 sq ft
+Existing footprint: 1720 SF
+Area of new work: 403 square feet
+Front setback: 34.5 ft
+Distance to side lot line: 9'-6"
+Rear yard setback: 33 feet
+Deck hight: approx. 14"
+Guard height: 39 inches
+Max opening in guard: 3 1/4 in
+Stair riser: roughly 7.5 inches
+Min tread: 11 in
+Risers: 2
+Handrail provided: Yes
+Joist spacing: 16 in
+Footing depth below grade: 28 inches
+Ledger attachment: bolts

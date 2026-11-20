@@ -1,0 +1,27 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0226
+Applicant: Sam Okafor
+Site address: 629 Orchard Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Type of work: Home addition
+APN: LH-8428-686
+Owner signature: Yes
+Contractor: owner-builder
+Valuation: $ 100400
+Zoning: R-1
+Lot size: 7400 SF
+Existing building footprint: 1610 SF
+Area of new work: 345 square feet
+Setbck (front): 38.5'
+Side setback: 12'-6"
+Setback (rear): 23 ft 6 in
+Building height: 414 in
+Finished ceiling height: 97 in
+New bedrooms: three
+Emergency escape window: Y
+Smoke alarm: Y
+Existing rear setback of garage: 3 ft
+Number of stories: 1
+Foundation type: basement

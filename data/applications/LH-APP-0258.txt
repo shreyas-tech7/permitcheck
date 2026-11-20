@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0258
+Applicant: Kenji Ward
+Site address: 634 Orchard Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Type of work: New deck
+Parcel number: LH-3219-880
+Owner signature: Yes
+Builder: LHC-76931
+Value of work: 116,950 USD
+Zone: R1
+Lot area: 6,750 square feet
+Existing footprint: 1470 sf
+Area of new work: 443 sf
+Front setback: 27.5 ft
+Side yard setback: 13'-6"
+Rear setback: 25'-6"
+Deck height above grade: 27 inches
+Guard height: 41 inches
+Guard oening: 3.5"
+Riser height: 7"
+Tread depth: 10.5 in
+Stair handrail: Yes
+Joists at: 16 in
+Depth of footigs: 38"
+Ledger fastener: none, freestanding deck
+Revised existing footprint: 1,530 sq ft

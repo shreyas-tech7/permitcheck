@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0300
+Applicant: Dana Ilves
+Site address: 485 Fernbank Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Work type: Deck
+APN: LH-4492-511
+Owner signature: Yes
+Builder: LHC-39477
+Valuation: 59,550 USD
+Zoning: District R2
+Lot size: 8,750 square feet
+Existing building footprint: 1700 sf
+New floor area: 162 SF
+Setback (front): 28'
+Side setack: 9.5 feet
+Rear yard setback: 23 ft 6 in
+Deck height: 18 in
+Guardrail height: 39 inches
+Guard opening: 3.25
+Riser height: 7 inches
+Stair tread: 10.5 inches
+Risers: 4
+Handrail: Provided
+Joist spacing: 12 in
+Footing depth: 35 in
+Ledger fastener: freestanding

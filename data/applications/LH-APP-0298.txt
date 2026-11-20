@@ -1,0 +1,28 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0298
+Applicant: Sam Okafor
+Site address: 747 Quarry Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+| Item | Entry |
+| --- | --- |
+| Project type | Deck |
+| Parcel ID | LH-8154-368 |
+| Owner signed | Signed |
+| Estimated cost | $ 6600 |
+| Zning | R2 |
+| Lot size | 6150 SF |
+| Existing footprit | 1,090 sq ft |
+| New floor area | 1698 sf |
+| Front setback | 34 ft |
+| Setback (side) | 7 ft 6 in |
+| Rear yard setback | 25 ft |
+| Deck height | 22" |
+| Stair riser | 7.25 inches |
+| Tread depth | 10.5 inches |
+| Riser count | 3 |
+| Stair handrail | None |
+| Joist spacing | 16" |
+| Depth of footings | 36 inches |
+| Ledger fastener | lag screws |

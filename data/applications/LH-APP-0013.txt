@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0013
+Applicant: Sam Okafor
+Site address: 968 Larkspur Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The type of work is Rear deck. The apn is LH-5404-929. The owner signed is Signed. The contractor is owner-builder. The valuatin is $33,050. The zoning district is R-3. The lot area is 6600 SF. The existing building footprint is 1,260 sq ft. The area of new work is 176 sf. The setback (front) is 16 ft 6 in. The distance to side lot line is 8.5 ft. The rear setback is 18 ft. The walking surface height is 24 in. The stair riser is 6.5". The min tread is 11 in. The risers is 4. The handrail is Y. The joist spacing (o.c.) is 12". The footing depth is 2 ft 11 in. The ledger fastener is freestanding.

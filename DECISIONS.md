@@ -12,3 +12,4 @@ One line per choice: what was weighed and why.
 - 2026-11-20 Field F1 counts every extracted value at any confidence. It measures reading. The decision metrics measure deciding.
 - 2026-11-20 Stdlib only. The social preview uses a stdlib PNG encoder, not Pillow.
 - 2026-11-20 Skills: ponytail, caveman, humanizer and find-skills could not be installed (the permission system refused `npx skills add`). Their rules are applied by hand.
+- 2026-11-20 Origin had no main. Pushed the README commit (6892e0a) as origin main so a pull request has a base. GitHub made claude/build-permitcheck the default branch because it was pushed first. HUMAN_STEPS says to set main as the default.

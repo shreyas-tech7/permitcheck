@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0217
+Applicant: Chris Abara
+Site address: 828 Millrace Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Project type: Room addition
+APN: LH-6414-239
+Owner signature: Yes
+Contractor: owner-builder
+Job cost: 104,600 USD
+Zoning district: R-2
+Lot area: 7,650 sq ft
+Existing footpint: roughly 1150 SF
+Area of new work: 632 SF
+Setback (front): 30'
+Side setback: 10.5'
+Setback (rear): 28 ft 6 in
+Height of addition: 23 ft
+Ceiling height: 84"
+Bedrooms added: 1
+Egress window: Provided
+Floors: 0
+Foundation type: slab
+Revised floors: 2

@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0276
+Applicant: Alex Brandt
+Site address: 782 Orchard Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+The type of work is Room addition. The apn is LH-3439-572. The owner signed is Yes. The builder is owner-builder. The zoning is R-2. The lot area is 11000 sf. The existing coverage is 1,810 square feet. The area of new work is 829 SF. The setback (front) is 25.5'. The setback (rear) is 22 feet. The height of addition is 22'. The ceiling is 82 in. The egress window is Provided. The hardwired smoke alarm is Yes. The stories is 1.

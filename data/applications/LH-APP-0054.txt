@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0054
+Applicant: Jordan Vale
+Site address: 805 Larkspur Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The type of work is Deck. The parcel id is 6895-949. The owner signature is Yes. The builder is owner-builder. The value of work is 1 USD. The lot area is 8,700 sq ft. The existing coverage is 1820 sf. The proposed area is 143 sf. The setback (front) is 23.5'. The side yard setback is 8'-6". The rear yard setback is about 210 in. The waling surface height is 42 in. The baluster spacing is 3 1/4 in. The max riser is 7.5 inches. The min tread is 12 inches. The riser count is 5. The existing rear setback of garage is 3 ft. The stair handrail is Y. The joists at is 16 in. The depth of footings is 30". The ledger fastener is through bolts.

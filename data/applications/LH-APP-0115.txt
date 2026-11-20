@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0115
+Applicant: Dana Ilves
+Site address: 865 Wren Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The work type is Deck. The parcel id is LH-6222-945. The owner signed is Signed. The contractor is LHC-92663. The estimated cost is $101,800. The zoning is R-2. The lot area is 7050 sf. The existing building footprint is 1710 SF. The proposed area is 187 SF. The front setback is about 20 feet. The setback (side) is 6 ft. The setback (rear) is 27.5 ft. The existing rear setback of garage is 2 ft. The deck height is 14". The railing height is 41 inches. The guard opening is 3.25 inches. The riser height is about 7 1/4 in. The tread depth is 10.5". The number of risers is 2. The stair handrail is Yes. The joists at is 16 in. The footing depth is 37 inches. The ledger is bolts.

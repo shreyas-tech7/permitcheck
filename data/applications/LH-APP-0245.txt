@@ -1,0 +1,31 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0245
+Applicant: Rosa Delgado
+Site address: 50 Orchard Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Work type: New deck
+Parcel ID: LH-9902-207
+Owner signature: Yes
+Contractor license: LHC-75535
+Estimated cost: 35,800 USD
+Zoning district: District R1
+Lot area: 8,500 sq ft
+Existing deck height: 17 in (old deck to be removed)
+Existing coverage: 1,830 square feet
+Proposed area: 451 sf
+Front yard setback: roughly 29.5'
+Side yard setback: 15'-6"
+Setback (rear): 35 ft
+Walking surface height: 20"
+Guard height: 41 in
+Baluster spacing: 3 1/2 in
+Stair riser: 7 in
+Min tread: 12
+Riers: 6
+Handrail provided: Yes
+Joist spacing: 16 inches
+Footng depth below grade: 48"
+Ledger fastener: bolts
+Revised riers: 4

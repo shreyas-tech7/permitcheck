@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0183
+Applicant: Kenji Ward
+Site address: 227 Thistle Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The project type is Deck. The parcel id is LH-3609-719. The contractor is owner-builder. The value of work is 11,100 USD. The zone is R3. The parcel area is 6,050 sq ft. The existing coverage is 1120 sf. The new floor area is 219 sq ft. The setback (front) is 18'-6". The side setback is 6 ft 6 in. The setback (rear) is 12 ft. The deck height above grade is 46 inches. The railing height is 30 in. The max opening in guard is 3.75 in. The stair riser is 7 inches. The stair tread is 11". The number of risers is 8. The stair handrail is Y. The joists at is 16 in. The footing depth below grade is 3'-2". The ledger fastener is lag screws.

@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0119
+Applicant: Morgan Pike
+Site address: 945 Fernbank Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The type of work is New deck. The apn is LH-3200-445. The owner signature is Yes. The contractor license is owner-builder. The estimated cost is $5,800. The zone is R-3. The lot size is roughly 7700 sf. The existing coverage is 1,360 square feet. The new flor area is 407 sq ft. The front setback is 16.5 feet. The side setback is 150 in. The rear setback is 20 ft 6 in. The deck height is 27 in. The railing height is 40 in. The max opening in guard is 3.5 in. The max riser is 6". The tread depth is 10 1/2 in. The risers is 4. The handrail provided is Provided. The joist spacing (o.c.) is 16 inches. The footing depth below grade is 43". The ledger fastener is none, freestanding deck.

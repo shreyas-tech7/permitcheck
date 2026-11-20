@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0191
+Applicant: Sam Okafor
+Site address: 174 Larkspur Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The type of work is New deck. The parcel id is LH-8123-827. The owner signature is Signed. The contractor license is LHC-45160. The zoning district is R3. The parcel area is 11,850 square feet. The existing footprint is 2330 sf. The new floor area is 295. The front setback is 29'-6". The side yard setback is 6'. The setback (rear) is 19.5 ft. The waling surface height is 35 inches. The guardrail height is 42 inches. The baluster spacing is 3.5 in. The stair riser is 6 in. The stair tread is 10 1/2 inches. The number of risers is 6. The handrail is Yes. The joists at is 12 in. The depth of footings is 37". The ledger fastener is bolts.

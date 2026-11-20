@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0112
+Applicant: Sam Okafor
+Site address: 806 Copper Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Project type: Home addition
+APN: 3349-241
+Signed by owner: Yes
+Builder: LHC-12545
+Valuation: 60,300 USD
+Zoning district: R3
+Parcel area: 9340 sf
+Existing footprint: 2320 sf
+Proposed area: 391 sf
+Setback (front): 22 feet
+Setback (side): 4 ft 6 in
+Setback (rear): 11.5 ft
+Addition height: 20'-6"
+Ceiling height: 105 inches
+Number of new bedrooms: 0
+Hardwired smoke alarm: Provided
+Number of stories: 1
+Foundation: slab
+Revised parcel area: 9,400 sq ft

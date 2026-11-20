@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0201
+Applicant: Kenji Ward
+Site address: 73 Millrace Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Type of work: Deck
+APN: LH-2763-955
+Signed by owner: Yes
+Estimated cost: 96,650 USD
+Zoning: R1
+Lot area: 9950 sf
+Existing building footprint: 1,980 square feet
+New floor area: 345 sf
+Front setback: 34 ft 6 in
+Setback (side): 10 ft
+Rear setback: 34 ft
+Deck height: 24 in
+Max riser: 6.5 in
+Stair tread: 11 inches
+Number of risers: 4
+Stair handrail: Y
+Joists at: 12 in
+Depth of footings: 40"
+Ledger attachment: none, freestanding deck

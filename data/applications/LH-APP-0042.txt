@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0042
+Applicant: Chris Abara
+Site address: 966 Larkspur Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+The project type is Addition. The parcel id is LH-9552-765. The owner signature is Yes. The contractor is LHC-14688. The vale of work is $ 45900. The zoning district is C1. The prcel area is 10,100 sq ft. The existing footprint is 1,930 sq ft. The new floor area is 668 SF. The front yard setback is 32.5. The setback (side) is 13 feet. The rear setback is 20.5 feet. The addition height is 30'. The ceiling is 86 in. The new bedrooms is 2. The emergency escape window is Y. The smoke alarm is Provided. The number of stories is 1. The foundation system is basement.

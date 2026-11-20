@@ -1,0 +1,30 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0132
+Applicant: Jordan Vale
+Site address: 987 Orchard Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Project type: Deck
+Parcel ID: LH-6155-312
+Owner signature: Not signed
+Contractor: owner-builder
+Value of work: 57,050 USD
+Zoning: R-2
+Lot size: 9,800 sq ft
+Existing footprint: 1520 SF
+New floor area: 201 sf
+Front yard setback: 30 ft
+Side yard setback: 9 ft
+Rear yard setack: 29'-6"
+Deck height above grade: 28 inches
+Railing height: 42 in
+Guard opening: 3.5"
+Max riser: 7.5 inches
+Tread depth: 11"
+Rier count: eight
+Handrail provided: Yes
+Joist spacing: 16 in
+Footings go down: 42 inches
+Ledger: lag screws
+Revised side yard setback: 11 ft

@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0145
+Applicant: Alex Brandt
+Site address: 815 Copper Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Project type: Home addition
+Parcel ID: LH-6457-530
+Signed by owner: Signed
+Builder: owner-builder
+Estimated cost: $ 41000
+Zoning district: R-3
+Lot area: 10200 sf
+Existing building footprint: 2570 SF
+New floor area: 557 square feet
+Front setback: 22'
+Side yard setback: 13'
+Rear yard setback: 25 feet
+Building height: 26 ft
+Ceiling: 86 inches
+Number of new bedrooms: 3
+Egress window: Y
+Hardwired smoke alarm: Yes
+Number of stories: one
+Foundation type: basement

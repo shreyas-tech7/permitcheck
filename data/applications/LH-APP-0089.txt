@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0089
+Applicant: Jordan Vale
+Site address: 519 Quarry Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The project type is Rear deck. The apn is LH-1702-638. The signed by owner is Signed. The contractor license is LHC-75178. The valuation is 66,200 USD. The zone is District R3. The parcel area is 10,150 square feet. The existing rear setback of garage is 2 ft. The existing building footprint is 2,340 sq ft. The proposed area is 216 sq ft. The setback (front) is 25.5 ft. The distance to side lot line is 13'. The rear yard setback is 25'. The railing height is 3 ft 2 in. The max opening in guard is 3 1/4 inches. The stair riser is 6.25 in. The stair tread is 11.5 inches. The riser count is 6. The stair handrail is Yes. The joist spacing is 16 inches. The depth of footings is 44". The ledger fastener is through bolts.

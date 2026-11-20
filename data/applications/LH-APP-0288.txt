@@ -1,0 +1,31 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0288
+Applicant: Sam Okafor
+Site address: 302 Fernbank Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Project type: Rear deck
+Parcel ID: LH-4069-885
+Owner signature: Not signed
+Contractor: owner-builder
+Valuation: 63,550 USD
+Zoning: R-3
+Lot area: 10000 SF
+Existing footprint: 2500 sf
+New floor area: 1,500 sq ft
+Setback (front): 16.5 ft
+Side setback: 114 in
+Setback (rear): 90 in
+Walking surface height: 13"
+Railing height: 40 in
+Max opening in guard: 3 in
+Max riser: 7.5"
+Tread depth: 10.5"
+Number of risers: 7
+Stair handrail: Provided
+Joist spacing (o.c.): 16"
+Footing depth below grade: 36 inches
+Ledger fastener: freestanding
+Revised setback (front): 18.5'
+Revised side setback: 11 ft 6 in

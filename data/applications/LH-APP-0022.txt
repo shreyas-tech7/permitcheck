@@ -1,0 +1,27 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0022
+Applicant: Priya Nandakumar
+Site address: 241 Copper Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Type of work: Addition
+Parcel ID: LH-1002-793
+Owner signed: Yes
+Contractor: LHC-11813
+Estimated cost: $ 76300
+Zoning: R2
+Lot size: approx. 10,650 sq ft
+Existing footprint: 2,200 square feet
+Proposed area: 399 square feet
+Front yard setback: 29 feet
+Side yard setback: 12'
+Setback (rear): 27'
+Height of addition: about 17'
+Ceiling: 88 inches
+Number of new bedrooms: two
+Escape window: Y
+Smoke detector: Provided
+Floors: 1
+Foundation system: basement
+Revised estimated cost: $75,800

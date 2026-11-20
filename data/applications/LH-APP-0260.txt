@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0260
+Applicant: Rosa Delgado
+Site address: 53 Orchard Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The type of work is Deck. The apn is LH-9191-736. The owner signed is Yes. The contractor license is LHC-42208. The zonig is R1. The lot area is 8,650 sq ft. The existing coverage is 1300 sf. The new floor area is 439 sf. The front setback is 34 ft. The side yard setback is 12 feet. The rear setback is 31 feet. The deck height above grade is 45 in. The railing height is 38 inches. The baluster spacing is 3 in. The max riser is 6.75 in. The stair tread is 12". The riser count is 4. The joist spacing (o.c.) is 16 inches. The depth of footings is 37". The ledger attachment is lag screws.

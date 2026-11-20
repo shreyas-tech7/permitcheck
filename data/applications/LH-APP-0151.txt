@@ -1,0 +1,28 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0151
+Applicant: Kenji Ward
+Site address: 610 Thistle Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+| Item | Entry |
+| --- | --- |
+| Type of work | Addition |
+| Parcel number | LH-4696-163 |
+| Signd by owner | Yes |
+| Contractor license | LHC-87575 |
+| Estimated cost | 5,700 USD |
+| Zoning | District R3 |
+| Lot size | 10250 sf |
+| Existing building footprint | 2120 sf |
+| New floor area | 646 square feet |
+| Setback (front) | 20 ft |
+| Side setback | 6 feet |
+| Rear yard setback | 22.5' |
+| Height of addition | 28 ft |
+| Ceiling height | 96 inches |
+| New bedrooms | 2 |
+| Harwired smoke alarm | Yes |
+| Number of stories | 1 |
+| Foundation | slab on grade |
+| Revised new bedrooms | 0 |

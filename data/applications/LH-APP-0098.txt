@@ -1,0 +1,27 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0098
+Applicant: Chris Abara
+Site address: 324 Thistle Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Type of work: Rear deck
+APN: LH-9665-463
+Signed by owner: Yes
+Builder: LHC-91050
+Value of work: $117,500
+Zoning district: R2
+Existing coverage: 1740 SF
+Proposed area: 263 sq ft
+Setback (front): 20 feet
+Distance to side lot line: 108 in
+Rear yard setback: 23'-6"
+Walking surface height: 2 ft 11 in
+Guard height: 42"
+Guard opening: 3 1/4 in
+Riser height: 7.5 inches
+Tread depth: 11 1/2 in
+Number of risers: seven
+Handrail: Provided
+Depth of footings: 30 inches
+Ledger fastener: none, freestanding deck

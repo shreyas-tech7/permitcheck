@@ -1,0 +1,25 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0020
+Applicant: Morgan Pike
+Site address: 264 Orchard Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Work type: Room addition
+Parcel number: LH-3895-731
+Owner signed: Yes
+Contractor license: LHC-733
+Value of work: $ 107950
+Zoning: R1
+Lot size: 9,400 sq ft
+Existing building footprint: 1780 SF
+Area of new work: 311 SF
+Front setback: 39 feet
+Side setback: 13.5'
+Rear yard setback: 23.5 ft
+Height of addition: 13.5 ft
+Ceiling height: 91 in
+Bedrooms added: 0
+Hardwired smoke alarm: Yes
+Number of stories: 1
+Foundation system: basement

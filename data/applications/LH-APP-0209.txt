@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0209
+Applicant: Rosa Delgado
+Site address: 277 Copper Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Work type: Rear deck
+APN: LH-2570-428
+Signed by owner: Signed
+Contractor: owner-builder
+Valuation: $18,200
+Zoning district: R3
+Lot area: 8250 sf
+Existing coverage: 1340 SF
+New floor area: 231 sq ft
+Setback (front): 26.5'
+Side yard setback: 3'
+Rear setback: 15.5 feet
+Walking surface height: 17 inches
+Max riser: 6.5 in
+Tread depth: 12 in
+Riser count: six
+Handrail: Yes
+Joist spacing (o.c.): 12 in
+Depth of footings: 40"

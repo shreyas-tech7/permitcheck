@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0291
+Applicant: Lee Marchetti
+Site address: 28 Copper Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Work type: Home addition
+APN: LH-5783-993
+Owner signature: Signed
+Builder: owner-builder
+Valuation: $84,250
+Zoning district: District R2
+Lot size: 8,250 square feet
+Existing building footprint: 1,860 sq ft
+New floor area: 619 SF
+Setback (front): 20 ft
+Side setback: 10 ft
+Rear yard setback: 18'-6"
+Addition height: 276 in
+Finished ceiling height: 107"
+New bedrooms: 2
+Egress window: Yes
+Smoke alarm: Y
+Number of stories: one
+Foundation system: crawl space

@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0285
+Applicant: Jordan Vale
+Site address: 979 Copper Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Project type: New deck
+APN: LH-9502-311
+Owner signed: Signed
+Contrator: owner-builder
+Value of work: $ 91250
+Zoning: R2
+Parcel area: 10000 sf
+Existing footprint: 1830 SF
+Proposed area: 460 square feet
+Stback (front): 30 ft 6 in
+Setback (side): 5.5 feet
+Setback (rear): 28'
+Deck height: 44 inches
+Guardrail height: 3 ft 5 in
+Guard opening: 3.25 in
+Max riser: 6 1/2 inches
+Stair tread: 12"
+Risers: 5
+Handrail: Y
+Joists at: 16 inches
+Depth of footings: 3'-5"
+Ledger attachment: nails

@@ -1,0 +1,29 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0045
+Applicant: Dana Ilves
+Site address: 960 Orchard Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+| Item | Entry |
+| --- | --- |
+| Type of work | New deck |
+| Parcel ID | LH-1132-319 |
+| Signed by owner | Yes |
+| Contractor license | owner-builder |
+| Value of work | $ 69550 |
+| Zoning | District R2 |
+| Lot size | 10000 sf |
+| Existing building footprint | 2100 SF |
+| New floor area | 1919 SF |
+| Front yard setback | 24'-6" |
+| Setback (side) | 9'-6" |
+| Setback (rear) | 23.5 ft |
+| Walking surface height | 30 inches |
+| Guard height | 42 inches |
+| Max opening in guard | 3.5 in |
+| Riser height | 7 inches |
+| Stair tread | 11.5" |
+| Number of risers | 4 |
+| Depth of fotings | 34 inches |
+| Ledger | bolts |

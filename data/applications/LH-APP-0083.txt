@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0083
+Applicant: Rosa Delgado
+Site address: 80 Thistle Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Type of work: Addition
+Parcel ID: LH-5097-530
+Owner signature: Signed
+Contractor license: owner-builder
+Valuation: $ 36650
+Zoning district: District R1
+Lot size: 5,450 square feet
+Existing building footprint: approx. 1,390 sq ft
+New floor area: 682 sq ft
+Setback (front): 32'
+Side yard setback: ~13 feet
+Rear setback: 23 ft 6 in
+Addition height: 30
+Finished ceiling height: 99"
+Number of new bedrooms: 1
+Escape window: Provided
+Harwired smoke alarm: Yes
+Floors: 1
+Foundation: basement

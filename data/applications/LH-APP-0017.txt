@@ -1,0 +1,26 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0017
+Applicant: Jordan Vale
+Site address: 948 Quarry Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Work type: Home addition
+Parcel ID: LH-6039-672
+Owner signed: Yes
+Builder: pending
+Estimated cost: 18,350 USD
+Zoning: District R2
+Lot size: 10700 SF
+Existing coverage: 1,800 square feet
+Area of new work: approx. 400 SF
+Setback (front): 22 feet
+Distance to side lot line: 6'
+Rear yard setback: 23.5'
+Addition height: 168 in
+Ceiling height: 90"
+New bedrooms: 1
+Emergency escape window: Yes
+Smoke detector: Yes
+Stories: 1
+Foundation system: crawl space

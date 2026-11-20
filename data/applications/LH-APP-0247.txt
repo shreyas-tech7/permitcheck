@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0247
+Applicant: Lee Marchetti
+Site address: 570 Millrace Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+The work type is Home addition. The apn is LH-2147-351. The contactor license is owner-builder. The job cost is $94,350. The zoning is R-1. The lot size is 11,200 sq ft. The existing footprint is 2,840 sq ft. The new floor area is 622 square feet. The setback (side) is 11 feet. The rear yard setback is 18'-6". The height of addition is 20 feet. The finished ceiling height is 90". The bedrooms added is 0. The egress window is None. The smoke alarm is Provided. The number of stories is one. The foundation is crawlspace.

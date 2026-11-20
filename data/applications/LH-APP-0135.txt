@@ -1,0 +1,28 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0135
+Applicant: Sam Okafor
+Site address: 132 Larkspur Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+Work type: Deck
+Parcel number: LH-8458-228
+Owner signature: Signed
+Builder: owner-builder
+Value of work: $ 93450
+Zoning: R1
+Lot size: 7,010 square feet
+Existing coverage: 1,770 sq ft
+Area of new work: 233 SF
+Setback (front): 40 ft
+Side yard setback: 8.5'
+Rear setback: 30 feet
+Deck height: 23 inches
+Stair riser: about 6 inches
+Tread depth: 12 inches
+Risers: 7
+Stair handrail: Yes
+Joist spacing: 12"
+Depth of footings: 42"
+Ledger attachment: lag screws
+Revised lot size: 6,950 square feet

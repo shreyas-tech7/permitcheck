@@ -25,7 +25,7 @@
     "steps": [
       ".venv/bin/python -m pytest -q tests/test_generator.py"
     ],
-    "passes": false
+    "passes": true
   },
   {
     "id": "F04",
@@ -34,7 +34,7 @@
     "steps": [
       ".venv/bin/python -m pytest -q tests/test_generator.py -k split"
     ],
-    "passes": false
+    "passes": true
   },
   {
     "id": "F05",

@@ -1,0 +1,25 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0121
+Applicant: Chris Abara
+Site address: 407 Thistle Lane, Larkspur Hollow
+Scope: Build a new room addition on the side of the house.
+
+Type of work: Room addition
+Parcel number: LH-1493-369
+Owner signed: Yes
+Builder: owner-builder
+Job cost: $ 65000
+Zoning district: R-2
+Parcel area: 5,700 sq ft
+Existing building footprint: 1,210 sq ft
+Proposed area: 436 sq ft
+Front yard setback: 25'-6"
+Setback (side): 13 ft
+Rear yard setback: 21 ft
+Building height: ~17.5 ft
+Finished ceiling height: 84"
+Bedrooms added: 0
+Smoke alarm: Y
+Stories: 1
+Foundation type: slab on grade

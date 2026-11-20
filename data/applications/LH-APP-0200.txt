@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional city. Not a real application.
+LARKSPUR HOLLOW BUILDING DIVISION: RESIDENTIAL PERMIT APPLICATION
+Application: LH-APP-0200
+Applicant: Chris Abara
+Site address: 224 Wren Lane, Larkspur Hollow
+Scope: Build a new deck at the back of the house.
+
+The type of work is Deck. The apn is LH-4040-514. The owner signature is Signed. The builder is owner-builder. The valuation is 24,450 USD. The zoning district is R-3. The parcel area is 11,200 sq ft. The existing footprint is 2,460 square feet. The proposed area is 134 sq ft. The setback (front) is 22'. The side setback is 3 ft. The setback (rear) is 10 feet. The deck height above grade is 60 inches. The railing height is 35 inches. The gap between pickets is 3.25 inches. The riser height is 7.25 inches. The tread depth is 10.25 in. The risers is 0. The handrail is None. The joist spacing is 12". The footing depth below grade is 2 ft 9 in. The ledger fastener is lag screws. The revised risers is 2.
