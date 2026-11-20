@@ -65,8 +65,9 @@ def _simple(check: dict, fields: dict, inputs: dict, code: dict | None):
         return ("pass", f"{_label(name)}: yes") if v else ("fail", f"{_label(name)}: no")
     if t == "pattern":
         v = _get(fields, name, inputs)
-        ok = re.fullmatch(check["regex"], str(v)) is not None
-        return ("pass" if ok else "fail"), f"{_label(name)} is {v}"
+        if re.fullmatch(check["regex"], str(v)):
+            return "pass", f"{_label(name)} is {v}"
+        return "fail", f"{_label(name)} is {v}, which is not in the form this section requires"
     if t == "in_set":
         v = _get(fields, name, inputs)
         allowed = ", ".join(check["values"])

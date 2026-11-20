@@ -29,7 +29,8 @@ GROUNDED_CAP, UNGROUNDED_CAP = 0.95, 0.5
 
 PROMPT = """You extract fields from a synthetic permit application for a fictional city.
 Do not judge whether the application passes. Only report what the text says.
-Return one JSON object: {{"fields": {{"<name>": {{"value": ..., "quote": "<exact text you copied>", "confidence": 0.0-1.0}}}}}}.
+Return one JSON object:
+{{"fields": {{"<name>": {{"value": ..., "quote": "<exact text you copied>", "confidence": 0.0-1.0}}}}}}.
 Use null for a field the text does not state. Copy the quote word for word from the application,
 including the label and the unit. Convert lengths to the unit in the field name (_ft feet, _in inches).
 

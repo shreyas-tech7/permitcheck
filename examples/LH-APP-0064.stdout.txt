@@ -1,0 +1,6 @@
+SYNTHETIC DATA ONLY. Larkspur Hollow and its code are fictional. This tool gives no legal advice. Not for production use.
+LH-APP-0064: 2 fail, 1 needs a person, 13 pass (rule-v1, LHRC 2026.1)
+  needs_human [R09, LHRC 11.3.1] Lot coverage: needs a person: the existing footprint (existing_footprint_sqft) is missing
+  fail        [R10, LHRC 11.4.1] Height of an addition: height is 34.5 ft, and this section requires at most 30 ft
+  fail        [R23, LHRC 13.3.2] Smoke alarm: smoke alarm: no
+wrote examples/LH-APP-0064/checklist.md, letter.md, queue.json and the audit log
