@@ -4,7 +4,7 @@
 
 Every feature in `feature_list.json` except F17. The rule-based extractor makes zero false approves on the held-out set (`results/eval_heldout_rule.json`). The README tables come from the results files. The release check is in `docs/RELEASE_CHECK.md`.
 
-Release commit: 8fb00cfa50f4861f80a58c9e8b4249b8c2dfb374. The commits after it only record this SHA and the hand-off notes.
+Release commit: 8fb00cfa50f4861f80a58c9e8b4249b8c2dfb374. It is tagged `v0.1.0-rc1`. Later commits tidy the repo for public release.
 
 ## Not done
 

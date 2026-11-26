@@ -4,7 +4,7 @@ Steps that only Shreyas can do, in order. While Shreyas was away, Claude was all
 
 Release commit: 8fb00cfa50f4861f80a58c9e8b4249b8c2dfb374
 
-The commits after the release commit only record this SHA and the hand-off notes. Tag the release commit.
+The release commit is tagged `v0.1.0-rc1`. Later commits tidy the repo for public release.
 
 ## 1. Make main the default branch
 
@@ -58,7 +58,7 @@ This is the step the build could not do (feature F17). Without it, the LLM extra
 
 ## 7. Make the repo public
 
-All history becomes public at that moment. Read `docs/build/BUILD_PROMPT.md` first (step 11).
+Done 2026-11-26: the repo is public.
 
 ## 8. Turn on Pages
 
@@ -75,7 +75,7 @@ Pin it on your profile, or list it in your profile README.
 
 ## 11. Decide whether the build prompt stays public
 
-`docs/build/BUILD_PROMPT.md` holds the full prompt the agents followed. Keep it, trim it or remove it before the repo goes public.
+`docs/build/BUILD_PROMPT.md` holds the full prompt the agents followed. Keep it, trim it or remove it.
 
 ## 12. Publish to PyPI (optional)
 
