@@ -3,7 +3,7 @@
 One line per choice: what was weighed and why.
 
 - 2026-11-20 Name: `permitcheck`. PyPI `permitcheck` 404 and npm `permitcheck` 404 on 2026-11-20. `plancheck` is taken on npm (200). Kept the repo name.
-- 2026-11-20 Base branch: origin was empty, so `claude/build-permitcheck` starts from the backup remote's `main` (one README commit). Other option was an orphan branch. Shared history keeps the PR simple.
+- 2026-11-20 Base branch: origin was empty, so `claude/build-permitcheck` starts from the build session's local copy of `main` (one README commit). Other option was an orphan branch. Shared history keeps the PR simple.
 - 2026-11-20 City: Larkspur Hollow, fictional. Code: Larkspur Hollow Residential Code (LHRC) version 2026.1, 25 rules written from scratch. Numbers chosen to differ from any real model code where possible.
 - 2026-11-20 Critical rules: 13 of 25 (three setbacks, coverage, addition height, guard height and openings, risers, joists, footings, ledger, escape window, smoke alarm). Paperwork and size-path rules are non-critical.
 - 2026-11-20 A conditional rule whose condition is false passes with the reason "not required". Options were pass or a fourth status. A fourth status would complicate every metric.
